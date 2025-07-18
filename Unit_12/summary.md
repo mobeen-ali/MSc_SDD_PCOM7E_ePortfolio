@@ -2,7 +2,7 @@
 
 In this final unit, I reflected on my learning throughout the Secure Software Development module using the Rolfe et al. (2001) reflective model: **What? So What? Now What?**
 
-The reflection captures how I engaged with secure design principles, modular coding practices, threat modelling, and practical Python implementation. It also discusses the evolution of my skills in authentication, encryption, logging, and test-driven development — all applied during the CLI e-commerce project.
+The reflection captures how I engaged with secure design principles, modular coding practices, threat modelling, and practical Python implementation. It also discusses the evolution of my skills in authentication, encryption, logging, and test-driven development, all applied during the CLI e-commerce project.
 
 Key insights included:
 - The value of starting with a strong design foundation (Unit 6)
