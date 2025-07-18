@@ -1,0 +1,34 @@
+Meeting summary for Mobeen Ali's Zoom Meeting (06/08/2025)
+Quick recap
+The team discussed updates and revisions to their framework document, focusing on formatting, references, and content organization. They worked on reducing the word count, finalizing edits, and preparing the document for submission, including peer review and plagiarism checks. The group also shared their progress on a model and portfolio assignment, discussed connecting on LinkedIn, and agreed to stay in touch for future collaborations.
+
+Next steps
+Mobeen to submit the final document to the assignment submission portal.
+All team members to complete their peer evaluations.
+All team members to update their online portfolios.
+All team members to connect on LinkedIn.
+Team members to message the group chat if they have questions about the second assignment.
+Summary
+Framework Document Update Discussion
+The team discussed updates to their framework document, with Yanu completing the tools and libraries section and adding references. Arianna shared that she had updated her sections and discovered a connection to a professor in Rome through a mutual acquaintance. The group discussed formatting requirements for references, noting that bullet points should be removed and references should be listed in alphabetical order. Mobeen mentioned he had submitted previous assignments with bullet point references, leading to some confusion about the new formatting requirements.
+
+Document Revisions and Formatting Updates
+The team discussed revisions to their document, focusing on reorganizing sections and adding references. They decided to move the security risks and mitigation section above requirements and assumptions, as suggested by their reviewer. Mobeen and Yanu worked on formatting changes, including font and size adjustments. The team also agreed to add an introductory sentence for the security risks section, aligning with OWASP guidelines. Arianne mentioned she would find additional sources for her section.
+
+Document Word Count Reduction
+The team discussed reducing the word count of their document, focusing on removing redundant references and reformatting text to meet requirements. Mobeen and Imraan agreed to shorten specific sections, while Yanu suggested removing repeated OWASP 2021 references. A key discussion point was whether to include references in the introduction, with Mobeen questioning the necessity given their expertise, but the team agreed to maintain them as per academic requirements. The document's total word count was reduced to 1,203 words without references, and Imraan committed to reformating text to align with requirements.
+
+Document Review and Finalization
+The team reviewed and edited a document, making several changes including removing redundant OWASP entries and updating the contents table. Mobeen and Yanu worked on formatting and citations, with Mobeen adding references and Yanu requesting remote control access to make adjustments. The team agreed the document was ready to be uploaded after finalizing a few minor changes.
+
+Document Peer Review Submission
+The team discussed the peer review process for a document, confirming that it should be brief and only required for extreme scores of 1 or 5. They agreed the document was ready for submission, with Mobeen noting that references should start on a new page and Imraan suggesting minor formatting adjustments. The group decided to proceed with submitting the document for both peer review and Turnitin checks.
+
+Model Portfolio Progress Discussion
+The group discussed their progress on a model and portfolio assignment, with Yanu and others indicating they had been working on it for about a year and two months. Mobeen mentioned it was his third model and expressed concern about the pace of the work, while Imraan noted it was his last module. The team waited for results from a system, with Yanu suggesting they needed to wait five minutes for the outcome. Arianna mentioned needing to catch up on the online portfolio, and the group agreed it had been a relatively smooth group assignment experience.
+
+LinkedIn Profile Connection Discussion
+The group discussed connecting on LinkedIn and sharing their profiles. Mobeen shared his LinkedIn profile link in the chat, but there was some confusion about which Mobeen was the correct contact. Imraan confirmed his current employer as Hyperion Dev. The group had some difficulty finding each other on LinkedIn due to common names, but they agreed to follow each other on the platform.
+
+Assignment Submission and Next Steps
+The group submitted their assignment, which Mobeen uploaded to the submission portal after excluding references and checking for plagiarism. They discussed the 3% content requirements and confirmed it was acceptable. The team agreed to stay in touch regarding the second assignment, which is linked to this one, and shared plans for future meetings if any team members visit the UK.

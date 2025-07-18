@@ -1,0 +1,35 @@
+Meeting summary for Mobeen Ali's Zoom Meeting (06/05/2025)
+Quick recap
+The team discussed project progress, document preparation, and scheduling for an upcoming meeting with Catherine. They addressed various issues, including data loss, document formatting, and individual responsibilities for completing different sections of their group work. The team also shared personal experiences with online education programs and agreed on final preparations before their meeting, expressing satisfaction with their collaborative efforts.
+
+Next steps
+Yanu to create and add the project timeline table to the Word document.
+Imraan to add information about JSON file storage to the requirements section of the document.
+All team members to complete individual peer reviews and upload them separately.
+All team members to attend the meeting with Catherine tomorrow to review the document.
+Team to potentially schedule another meeting on Sunday if Catherine requests changes to the document.
+Mobeen to upload the final document for submission after Catherine's approval.
+Summary
+Meeting Scheduling and Document Coordination
+The team discussed scheduling conflicts and document sharing for an upcoming meeting with Catherine. Mobeen mentioned he would share documents with the team in case he couldn't join the meeting due to Eid holiday. Imraan noted he hadn't completed some sections of work and had a potential scheduling clash with the meeting. The team confirmed the meeting was scheduled for Friday at 3 PM and agreed it should be manageable despite the short duration.
+
+Document Review and Sharing Issues
+Mobeen shared a Microsoft document with added diagrams, captions, and a conclusion, which he reviewed with Imraan and Aria. They discussed noting tools like Mermaid and Sequence Diagram in the references and agreed to reduce content to just list tools and libraries in a table. Mobeen faced issues sharing the document for editing and eventually shared it via Zoom chat, which Imraan accessed.
+
+Project Status and Data Recovery
+The team discussed the status of their project, with Mobeen having already written the conclusion and references. A significant issue was reported where a junior developer accidentally deleted data from the repository and database, which Arianna is helping to recover. Yanu joined late due to health issues but committed to working on the project timeline, which needs to be added to the document by the next day at 1 PM.
+
+Clinician Form and Graph Update
+Yanu discussed creating a form for clinicians that needs to be completed by next Friday, which is taking up much of his time. He agreed to update the graph requested by Arianna after finishing the form, and will do so by adding it to the existing document. The conversation then shifted to casual discussion about weather conditions in different locations and personal health issues, with Yanu mentioning he might have a throat infection.
+
+Distance Learning Experiences Shared
+Yanu discussed her experience with the University of Essex's online masters program, which she chose after considering other options and deciding on distance learning. Arianna shared her experience with applying to Bath and the University of London, noting that Bath required detailed transcripts while the University of London had less stringent requirements. Both discussed their educational backgrounds and career paths, with Yanu working as an analyst and Arianna transitioning from design to development.
+
+Computer Science Masters Program Update
+The group discussed their progress in their online computer science masters program, with Yanu and Imraan sharing details about their completed modules and remaining coursework. Mobeen joined the call after a delay and confirmed he had completed the conclusion section of their group document. The team agreed to review the document together, with Yanu planning to add a table to the Word document that Arianna had shared on WhatsApp. They decided to meet again after receiving feedback from their tutor the next day, with the possibility of a Sunday meeting if changes were required.
+
+Document Formatting and Diagram Updates
+The team discussed formatting adjustments for their document, including removing heading numbers and adjusting font size to 11 or 12 with 1.5 line spacing. Mobeen demonstrated how to modify diagram placement and properties in the web editor, while also adding a password policy step to the misuse activity diagram. The group agreed to include Mermaid and other diagram tools in the references section, and discussed adding page numbers and a table of contents to their document.
+
+Project Review and Final Preparations
+The team reviewed their project work and discussed final preparations before meeting with Catherine tomorrow. They confirmed that Mobeen would add the timeline, Imraan would add details about JSON file storage to the requirements section, and all team members would complete their individual peer reviews. Yanu expressed appreciation for the team's performance, describing them as one of the best groups they had worked with, and the team agreed to share any additional needs through chat if another meeting was required.

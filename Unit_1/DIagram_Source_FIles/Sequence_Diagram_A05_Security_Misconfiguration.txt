@@ -1,0 +1,31 @@
+title Sequence Diagram: Exploitation of Security Misconfiguration (OWASP A05:2021)
+
+participant Attacker
+participant WebApp
+participant Server
+participant CloudStorage
+
+note over Attacker: Scenario 1 – Default Admin Panel
+Attacker->WebApp: GET /admin
+WebApp->Server: Authenticate (default credentials)
+Server-->WebApp: Access granted
+WebApp-->Attacker: Admin panel loaded
+
+note over Attacker: Scenario 3 – Verbose Error Disclosure
+Attacker->WebApp: Invalid request
+WebApp-->Attacker: 500 Error with stack trace
+
+note over Attacker: Scenario 4 – Cloud Exposure
+Attacker->CloudStorage: Access public bucket URL
+CloudStorage-->Attacker: Sensitive data returned
+
+note over Attacker: Scenario 2 – Directory Listing
+Attacker->WebApp: GET /WEB-INF/classes/
+WebApp-->Attacker: Lists class files
+Attacker->WebApp: Download .class file
+note over Attacker: Reverse engineer and discover access flaw
+
+Attacker->WebApp: Exploit access control flaw
+WebApp-->Attacker: Unauthorized access achieved
+
+note over Attacker: System compromised and data exfiltrated

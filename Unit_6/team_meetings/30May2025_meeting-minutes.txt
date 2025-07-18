@@ -1,0 +1,51 @@
+Meeting summary for Mobeen Ali's Zoom Meeting (05/30/2025)
+Quick recap
+The team discussed their project document structure, content allocation, and word count distribution for various sections, focusing on security risks, project management, and requirements. They divided responsibilities among team members for different sections, agreeing to collaborate on diagrams and review each other's work. The team also established a timeline for completing and submitting the document, scheduling meetings to finalize content and address any remaining issues before the submission deadline.
+
+Next steps
+Team: Complete assigned sections of the document by Tuesday's meeting
+Team: Review and provide feedback on each other's sections during Tuesday's meeting
+Team: Finalize the document by Thursday, June 5th meeting
+Team: Reduce security risks section to 60-70 words in bullet points by Tuesday's meeting
+Team: Work on diagrams collaboratively for the security risks section
+Team: Write conclusion section together during Tuesday's meeting
+Arianna: Complete introduction and objectives sections by Tuesday's meeting
+Imraan: Complete requirements and assumptions section by Tuesday's meeting
+Yanu: Complete project timeline flowchart and tools/libraries section by Tuesday's meeting
+Mobeen: Complete tools and libraries section and project management/solo development section by Tuesday's meeting
+Mobeen: Share Zoom meeting link for Tuesday's meeting
+Mobeen: Share recordings of previous and current sessions
+Team: Attend next meeting on Tuesday, June 3rd at 6:00 PM BST
+Team: Attend final meeting on Thursday at 5 PM
+Team: Be prepared for potential weekend meetings if final adjustments are needed before June 9th submission deadline
+Team: Share any additional library suggestions for the project in WhatsApp chat
+Summary
+Security Risk Assessment Discussion
+Mobeen shared his security risk assessment, which he had already documented in a blog post. Yanu agreed to add his assessment to the WhatsApp chat, and Imraan inquired about the link to the OWAS, though the transcript ends before the question is answered.
+
+Vulnerability Document Planning Discussion
+The team discussed vulnerabilities from 2017 and 2021 lists, noting changes in rankings and naming conventions. They agreed to create a separate document for their work on vulnerabilities, rather than continuing in their team meeting document. Mobeen suggested keeping presentations concise, given the 1000-word limit, and the team confirmed the introduction should be 200 words for the entire document, not per person.
+
+Team Assignment Structure and Format
+The team discussed how to structure their assignment document, deciding to split it into sections with individual team members taking responsibility for specific sections. They agreed to include system requirements, security considerations, diagrams (including class diagrams, misuse activity diagrams, and correct use activity diagrams), and peer reviews. Yanu suggested following a template similar to a previous project where sections were allocated and then combined into a single document for submission, with peer reviews submitted separately.
+
+Project Management Document Structure
+The team discussed the structure and content of their project management document, focusing on sections like introduction, requirements, objectives, and project management approach. They agreed to allocate 100 words for the introduction and objectives sections, with the remaining content to be organized into bullet points and diagrams. Mobeen suggested using prepared 200-word content to create bullet lists for security risks, while arianna proposed creating diagrams to complement written content without affecting the word count. The team also confirmed the inclusion of project timeline and solo developer approach sections, ensuring all requirements and assumptions are addressed.
+
+Project Document Word Count Allocation
+The team discussed and allocated word counts for different sections of their project document, aiming to stay within the 1,000-1,200 word limit with a 10% flexibility. They agreed on 150 words for requirements, 200 words for security risks and mitigations, 200 words for project management, and 80-100 words for the conclusion, with diagrams and captions accounting for an additional 50 words. Arianna suggested distributing the word count based on content type rather than equally among team members, and the team agreed to keep a 50-word buffer for potential adjustments.
+
+Document Section Division and Collaboration
+The team discussed dividing up sections of a document, focusing on security risks and mitigation. They agreed to collaborate on the largest section together and divide the remaining parts among themselves. Mobeen suggested adding subheadings to the security risks section, which Yanu supported. The team also decided to work on diagrams collectively to gain experience. They left one section unassigned, with Mobeen offering to take it, and discussed the possibility of combining their thoughts on each section before finalizing the content. Yanu expressed concern about time constraints for this approach.
+
+Meeting Rescheduling and Task Allocation
+The team agreed to reschedule their meeting to Tuesday, June 3rd at 6:00 PM BST, with Mobeen taking responsibility for one section and potentially another, while Arianna and Yanu will collaborate on Section 4, which will be approximately 200 words each.
+
+Document Completion and Submission Plan
+The team discussed the timeline for completing and submitting a document, aiming to finalize it by Thursday, May 5th, with a potential submission on Friday, June 9th. They agreed to split sections, with Yanu taking the project timeline (including a flowchart), Arianna handling the introduction, objectives, and a 50-word section, and Mobeen taking the remaining sections. The team planned to review their sections on Tuesday, make adjustments, and finalize the document by Thursday, with the possibility of meeting over the weekend if needed.
+
+Team Assigns Work for Assignment
+The team discussed and finalized the division of work for their assignment, with Imraan taking the requirements and assumptions section, Yanu taking tools and libraries, and the conclusion to be written together in the next meeting. They agreed to reduce their written sections from 200 to 60-70 words each, focusing on bullet points, and will review word counts on Tuesday before finalizing the document. The team also decided to work on diagrams together on Tuesday, and clarified that they do not need to present to their tutor before submission.
+
+Project Timeline and Access Planning
+The team discussed their project timeline and document access issues. They agreed to prepare and share their sections, with Mobeen compiling everything into one document for the assignment. Imraan inquired about the libraries for implementing two-factor authentication, which the team confirmed was acceptable. They scheduled their next meeting for Tuesday at 6 PM and Thursday at 5 PM, with Mobeen agreeing to send the Zoom meeting link and previous session recordings.

@@ -1,0 +1,49 @@
+Meeting summary for Mobeen Ali's Zoom Meeting (06/04/2025)
+Quick recap
+The team began their meeting with casual updates and confirmed completion of assigned sections before discussing document constraints and UML diagram requirements. They explored system implementation details, focusing on user management and order handling, while also developing misuse case diagrams to address potential vulnerabilities. The team concluded by discussing scheduling a review meeting with their tutor and finalizing project documentation, including sequence diagrams and flowcharts, for submission.
+
+Next steps
+Team: Get design outline reviewed and approved by tutor before final submission
+Team: Complete and finalize the misuse case diagram showing both legitimate user actions and hacker perspectives
+Team: Add JSON storage methods and encryption/decryption functionality to the class diagram
+Imraan: Complete and tighten up the security section content, currently at 135 words
+Yanu: Convert IWASP framework content from paragraph to bullet points and reduce from 80 words
+Mobeen: Convert security misconfiguration section to bullet points format
+Yanu: Create flowchart diagram and table format for project timeline section
+Team: Add references and tools used to the document
+Mobeen: Share access to the Word document with all team members
+Team: Complete the conclusion and references sections after the tutor review meeting
+All Team Members: Meet tomorrow at 4 PM UK time to finalize the assignment and review the conclusion
+All Team Members: Attend the tutor review meeting on Sunday at 7 PM
+Mobeen: Send calendar invite for tomorrow's 4 PM UK time meeting
+Mobeen: Continue copying and pasting content from the Word document to the shared Google document
+Summary
+Informal Team Greeting and Updates
+The team began their meeting with casual greetings and brief personal updates, including Yanu finishing lunch after a late hospital visit and Arianna leaving to buy paracetamol for a headache. Mobeen suggested starting the meeting, and Yanu confirmed completing their assigned sections. The conversation was informal, with no significant decisions, alignments, or action items discussed.
+
+Document Restructuring and UML Planning
+The team discussed word count constraints for their document sections, with each member ensuring their contributions stayed within the limits while converting some paragraphs into bullet points for better structure. Mobeen and Imraan planned to finalize the class diagram and improve it where necessary, while Yanu was tasked with converting the project timeline into a flowchart. The team agreed to start working on UML diagrams, focusing on class diagrams first, and to review and refine them collaboratively.
+
+JSON Data Storage System Implementation
+Imraan and Mobeen discussed the implementation details of a system that stores data in JSON format without using a database. They agreed on the need for methods to handle encryption, decryption, and logging, with Mobeen suggesting the inclusion of a log file. Imraan planned to add these details to their documentation.
+
+System Structure and User Management
+The team discussed the structure and functionality of their system, focusing on user management and order handling. They identified the need to add methods to the Order class and discussed the creation of misuse case diagrams to address vulnerabilities. Mobeen raised concerns about the lack of a create user method for legitimate users, which the team agreed to address. The group also considered how to represent different types of users and vulnerabilities in their diagrams.
+
+Misuse Case Diagrams for Hackers
+The team discussed creating misuse case diagrams, focusing on hacker scenarios. Arianna emphasized that misuse diagrams should show only misuse cases, not legitimate user actions, and suggested keeping them separate from proper use cases. They agreed on three main actions for hackers: brute force attacks, denial of service attacks, and API injection attacks. The team also discussed potential responses to these attacks, including input sanitation and validation measures. They debated the exact flow of actions between hackers and systems, with some uncertainty about the direction of certain arrows in the diagram.
+
+Misuse Case Diagram Attack Scenarios
+The team discussed misuse case diagrams, focusing on how to effectively represent a hacker's attack on a system. Arianna suggested making the diagram more specific by dividing targets into the application itself, network infrastructure, and education system, while Mobeen emphasized the importance of showing how the system responds to these attacks. They reviewed a proposed diagram that included scenarios for authentication system attacks, network infrastructure attacks, and API server attacks, with considerations for rate limiting and input sanitization.
+
+API Review Meeting Scheduling Discussion
+The team discussed the need to arrange a meeting with their tutor for work review and approval before submission, discovering this requirement from a submission checklist point they had missed earlier. They found an email from the tutor dated July 14th regarding API demonstration review, which led to a discussion about scheduling the meeting. After checking the tutor's available times (Thursday 10:30-11:30 AM and Sunday 7-8 PM BST), they decided to email requesting either a Sunday evening meeting or a slot during regular working hours the following day, with Mobeen potentially joining via phone due to afternoon commitments.
+
+User Authentication Diagram Refinement
+The team discussed and refined a diagram showing user authentication and API interactions, focusing on legitimate and misuse cases. Mobeen and Imraan debated whether to include legitimate user actions, while Yanu suggested showing both hacker and user perspectives side by side. The team agreed to simplify the diagram by reducing dashed lines and focusing on key components, though Imraan planned to make additional edits including adding JSON and database elements. They concluded that the diagram was complete enough to move forward.
+
+Sequence Diagram Sharing and Planning
+The team discussed accessing and sharing a sequence diagram, with Mobeen agreeing to share it as a plain text file or in a Word document. They planned to copy and paste relevant content into a new document, with Yanu offering to create a flowchart for the project timeline and add a diagram to the new document. The group decided to postpone writing the conclusion and references until after their meeting with the tutor on Sunday, as they were nearly finished with the main content. Yanu, who was feeling unwell, expressed concern about continuing but agreed to stay on to complete the work.
+
+Project Finalization Meeting Preparation
+The team discussed scheduling a meeting for the following day at 4 PM UK time to finalize their project. They agreed to use a table format for their flowchart instead of a traditional chart. Mobeen was tasked with sharing access to the new document with the team. The group decided to use an existing Google document for their final review rather than creating a new one. They ended the conversation by agreeing to rest and continue working on their points before the next day's meeting.
