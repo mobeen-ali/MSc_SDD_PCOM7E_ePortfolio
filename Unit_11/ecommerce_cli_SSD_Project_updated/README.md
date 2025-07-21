@@ -18,7 +18,9 @@ This project demonstrates secure software development practices through a functi
 ### Security Features (OWASP A01-A10)
 - **A01**: Session management with JWT tokens
 - **A02**: Cryptographic key rotation and secure storage
+- **A03**: Input validation and injection prevention
 - **A04**: Comprehensive threat modeling
+- **A05**: Security misconfiguration prevention
 - **A06**: Dependency vulnerability scanning
 - **A07**: Rate limiting and account lockout
 - **A08**: Data integrity validation
@@ -34,11 +36,17 @@ This project demonstrates secure software development practices through a functi
 ### Setup
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd ecommerce_cli_SSD_Project_updated
+git clone https://github.com/mobeen-ali/MSc_SDD_PCOM7E_ePortfolio
+cd Unit_11/ecommerce_cli_SSD_Project_updated
+
+# Create virtual environment
+python -m venv .venv
 
 # Activate virtual environment
+# On Windows:
 .venv\Scripts\activate
+# On macOS/Linux:
+# source .venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
@@ -135,7 +143,7 @@ flake8 app/
 - [`DEMONSTRATION_GUIDE.md`](./DEMONSTRATION_GUIDE.md) - Quick start guide
 - [`PROJECT_STRUCTURE.md`](./PROJECT_STRUCTURE.md) - Detailed structure overview
 - [`TESTING_EVIDENCE.md`](./TESTING_EVIDENCE.md) - Testing documentation
-- [`DEMONSTRATION_GUIDE.md`](./DEMONSTRATION_GUIDE.md) - Demo preparation
+- [`DEMO_COMMANDS.md`](./DEMO_COMMANDS.md) - Demonstration commands
 
 ## Security Implementation
 

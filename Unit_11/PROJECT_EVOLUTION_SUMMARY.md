@@ -88,7 +88,7 @@ Updated: Comprehensive security-focused architecture with:
 
 ### Supporting Documents
 - `Unit11_Implementation_Evaluation.md` (Unit 12) - Implementation vs. design analysis
-- `Reflection_on_the_Secure_Software_Development_Module.docx` (Unit 12) - Module reflection
+- `Reflection_on_the_Secure_Software_Development_Module_v1.1.docx` (Unit 12) - Module reflection
 
 ## Conclusion
 
