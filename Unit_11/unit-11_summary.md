@@ -11,7 +11,7 @@ This unit demonstrates significant learning and growth through two project itera
 - Identified areas for improvement
 
 ### Final Submission (Comprehensive Implementation)
-**Location**: `ecommerce_cli_SSD_Project_updated/` ⭐ **PRIMARY SUBMISSION**
+**Location**: `ecommerce_cli_SSD_Project_updated/` ⭐ **REVISED VERSION** (This is the artefact submitted for Assessment 3)
 - Complete OWASP A01-A10 implementation
 - Comprehensive testing and documentation
 - Advanced security features and architecture
