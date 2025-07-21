@@ -1,0 +1,10 @@
+============================= test session starts =============================
+platform win32 -- Python 3.8.10, pytest-8.3.5, pluggy-1.5.0
+rootdir: D:\PyCharmProjects\ecommerce_cli_SSD_Project
+collected 6 items
+
+tests\test_auth.py .                                                     [ 16%]
+tests\test_product.py ...                                                [ 66%]
+tests\test_user.py ..                                                    [100%]
+
+============================== 6 passed in 1.39s ==============================

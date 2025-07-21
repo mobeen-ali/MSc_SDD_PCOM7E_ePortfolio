@@ -1,30 +1,24 @@
-# 🧩 Faceted Data Reflection (Based on Schmitz et al., 2016)
+# Faceted Data Reflection (Based on Schmitz et al., 2016)
 
-## ❓ Is Faceted Data a Good Approach to Prevent Data Leakage?
+## Applicability of the Faceted Data Model for Preventing Information Leakage
 
-Yes, faceted data can be an effective strategy to mitigate data leakage risks, especially in systems where information must be dynamically filtered based on **security context** (e.g., user role, location, device). Instead of creating multiple system versions or complex conditional logic, faceted execution allows a single program to generate **multiple views** of the same data, each tailored to a user's privilege level.
+The faceted data model, as proposed by Schmitz et al. (2016), offers a programmatic mechanism for enforcing dynamic, context-aware data access. It enables a single execution context to yield multiple views of the same data, selectively exposed based on the user's security attributes such as role, location, or device integrity. This reduces the risk of unintended disclosure without requiring multiple system variants or deeply nested conditional logic.
 
----
+## Advantages
 
-## ✅ Advantages
+- **Security by Design**: Data disclosure is inherently constrained by the access context, reducing exposure by default.
+- **Separation of Concerns**: Confidential and non-confidential logic can be cleanly expressed in parallel, supporting maintainable codebases.
+- **Dynamic Policy Enforcement**: Runtime decisions allow enforcement of contextual access control without static privilege mappings.
 
-- **Security by Design**: Prevents unauthorized access programmatically by default.
-- **Separation of Concerns**: Developers can specify high/low confidentiality logic in parallel.
-- **Dynamic Policy Enforcement**: Access control decisions happen during execution based on current user context.
+## Disadvantages
 
----
+- **Implementation Complexity**: Reasoning about control and data flow in a multi-faceted context increases cognitive and debugging overhead.
+- **Performance Overhead**: Simultaneous evaluation of multiple execution paths can incur computational and memory penalties.
+- **Limited Native Support**: The Python ecosystem lacks mature frameworks to support full-scale faceted execution, requiring manual implementations.
 
-## ❌ Disadvantages
+## Simplified Python-Based Implementation
 
-- **Complexity**: Debugging and reasoning about multi-faceted flows can be difficult.
-- **Performance**: Running faceted execution branches may impact speed and memory.
-- **Tooling Gaps**: Limited Python-native frameworks to support full faceted execution models.
-
----
-
-## 💡 Python Implementation Outline
-
-While Python lacks full-fledged faceted data engines, a simplified model might look like this:
+Although native faceted execution frameworks are absent in Python, a minimal abstraction can simulate the behaviour:
 
 ```python
 class FacetedValue:
@@ -35,8 +29,9 @@ class FacetedValue:
     def resolve(self, is_admin):
         return self.private if is_admin else self.public
 
-# Usage
+# Example usage
 data = FacetedValue(public="Redacted Info", private="Sensitive Report")
 print(data.resolve(is_admin=False))  # Outputs: Redacted Info
 print(data.resolve(is_admin=True))   # Outputs: Sensitive Report
 ```
+This example demonstrates how role-based view resolution can be encapsulated in an object, mimicking the core principle of faceted execution.

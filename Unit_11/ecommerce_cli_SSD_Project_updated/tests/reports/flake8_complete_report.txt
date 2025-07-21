@@ -1,0 +1,1194 @@
+app/cli.py:9:80: E501  line too long (88 > 79 characters)
+app/cli.py:26:1: F401  'getpass.getpass' imported but unused
+app/cli.py:30:1: F401  'app.models.order.OrderStatus' imported but unused
+app/cli.py:30:1: F401  'app.models.order.PaymentStatus' imported but unused
+app/cli.py:33:1: F401  'app.core.api_manager.APIManager' imported but unused
+app/cli.py:48:1: E302  expected 2 blank lines, found 1
+app/cli.py:54:5: E722  do not use bare 'except'
+app/cli.py:58:1: E302  expected 2 blank lines, found 1
+app/cli.py:63:5: E722  do not use bare 'except'
+app/cli.py:66:1: E302  expected 2 blank lines, found 1
+app/cli.py:73:1: E302  expected 2 blank lines, found 1
+app/cli.py:81:1: E302  expected 2 blank lines, found 1
+app/cli.py:88:80: E501  line too long (81 > 79 characters)
+app/cli.py:96:1: W293  blank line contains whitespace
+app/cli.py:101:1: W293  blank line contains whitespace
+app/cli.py:107:1: W293  blank line contains whitespace
+app/cli.py:118:1: W293  blank line contains whitespace
+app/cli.py:123:1: W293  blank line contains whitespace
+app/cli.py:128:1: E302  expected 2 blank lines, found 1
+app/cli.py:134:1: W293  blank line contains whitespace
+app/cli.py:139:80: E501  line too long (81 > 79 characters)
+app/cli.py:141:1: W293  blank line contains whitespace
+app/cli.py:146:1: W293  blank line contains whitespace
+app/cli.py:149:1: W293  blank line contains whitespace
+app/cli.py:153:80: E501  line too long (80 > 79 characters)
+app/cli.py:154:1: W293  blank line contains whitespace
+app/cli.py:159:1: W293  blank line contains whitespace
+app/cli.py:164:1: W293  blank line contains whitespace
+app/cli.py:171:80: E501  line too long (118 > 79 characters)
+app/cli.py:175:1: W293  blank line contains whitespace
+app/cli.py:177:80: E501  line too long (82 > 79 characters)
+app/cli.py:180:80: E501  line too long (87 > 79 characters)
+app/cli.py:181:1: W293  blank line contains whitespace
+app/cli.py:192:1: W293  blank line contains whitespace
+app/cli.py:194:80: E501  line too long (81 > 79 characters)
+app/cli.py:196:80: E501  line too long (96 > 79 characters)
+app/cli.py:197:80: E501  line too long (88 > 79 characters)
+app/cli.py:200:80: E501  line too long (83 > 79 characters)
+app/cli.py:201:1: W293  blank line contains whitespace
+app/cli.py:212:1: W293  blank line contains whitespace
+app/cli.py:216:80: E501  line too long (92 > 79 characters)
+app/cli.py:217:80: E501  line too long (85 > 79 characters)
+app/cli.py:218:1: W293  blank line contains whitespace
+app/cli.py:223:1: E302  expected 2 blank lines, found 1
+app/cli.py:231:1: W293  blank line contains whitespace
+app/cli.py:240:1: W293  blank line contains whitespace
+app/cli.py:244:1: W293  blank line contains whitespace
+app/cli.py:252:1: E302  expected 2 blank lines, found 1
+app/cli.py:263:1: W293  blank line contains whitespace
+app/cli.py:268:80: E501  line too long (97 > 79 characters)
+app/cli.py:271:1: W293  blank line contains whitespace
+app/cli.py:276:1: E302  expected 2 blank lines, found 1
+app/cli.py:287:1: W293  blank line contains whitespace
+app/cli.py:290:1: W293  blank line contains whitespace
+app/cli.py:298:1: E302  expected 2 blank lines, found 1
+app/cli.py:309:1: W293  blank line contains whitespace
+app/cli.py:312:1: W293  blank line contains whitespace
+app/cli.py:317:1: W293  blank line contains whitespace
+app/cli.py:322:1: E302  expected 2 blank lines, found 1
+app/cli.py:333:1: W293  blank line contains whitespace
+app/cli.py:338:80: E501  line too long (87 > 79 characters)
+app/cli.py:339:1: W293  blank line contains whitespace
+app/cli.py:347:1: E302  expected 2 blank lines, found 1
+app/cli.py:358:1: W293  blank line contains whitespace
+app/cli.py:364:1: W293  blank line contains whitespace
+app/cli.py:369:1: E302  expected 2 blank lines, found 1
+app/cli.py:380:1: W293  blank line contains whitespace
+app/cli.py:386:1: W293  blank line contains whitespace
+app/cli.py:394:1: E302  expected 2 blank lines, found 1
+app/cli.py:405:1: W293  blank line contains whitespace
+app/cli.py:408:1: W293  blank line contains whitespace
+app/cli.py:414:28: F541  f-string is missing placeholders
+app/cli.py:415:1: W293  blank line contains whitespace
+app/cli.py:424:1: W293  blank line contains whitespace
+app/cli.py:432:1: E302  expected 2 blank lines, found 1
+app/cli.py:443:1: W293  blank line contains whitespace
+app/cli.py:445:1: W293  blank line contains whitespace
+app/cli.py:448:1: W293  blank line contains whitespace
+app/cli.py:451:80: E501  line too long (86 > 79 characters)
+app/cli.py:452:1: W293  blank line contains whitespace
+app/cli.py:460:1: E302  expected 2 blank lines, found 1
+app/cli.py:471:1: W293  blank line contains whitespace
+app/cli.py:473:1: W293  blank line contains whitespace
+app/cli.py:476:80: E501  line too long (85 > 79 characters)
+app/cli.py:477:80: E501  line too long (82 > 79 characters)
+app/cli.py:479:1: W293  blank line contains whitespace
+app/cli.py:484:1: W293  blank line contains whitespace
+app/cli.py:489:1: E302  expected 2 blank lines, found 1
+app/cli.py:500:1: W293  blank line contains whitespace
+app/cli.py:502:1: W293  blank line contains whitespace
+app/cli.py:505:1: W293  blank line contains whitespace
+app/cli.py:508:1: W293  blank line contains whitespace
+app/cli.py:516:1: E302  expected 2 blank lines, found 1
+app/cli.py:527:1: W293  blank line contains whitespace
+app/cli.py:529:1: W293  blank line contains whitespace
+app/cli.py:532:80: E501  line too long (89 > 79 characters)
+app/cli.py:533:80: E501  line too long (89 > 79 characters)
+app/cli.py:534:80: E501  line too long (93 > 79 characters)
+app/cli.py:535:1: W293  blank line contains whitespace
+app/cli.py:540:1: W293  blank line contains whitespace
+app/cli.py:545:1: E302  expected 2 blank lines, found 1
+app/cli.py:556:1: W293  blank line contains whitespace
+app/cli.py:558:1: W293  blank line contains whitespace
+app/cli.py:562:1: W293  blank line contains whitespace
+app/cli.py:567:1: W293  blank line contains whitespace
+app/cli.py:575:1: E302  expected 2 blank lines, found 1
+app/cli.py:586:1: W293  blank line contains whitespace
+app/cli.py:594:1: W293  blank line contains whitespace
+app/cli.py:596:1: W293  blank line contains whitespace
+app/cli.py:601:80: E501  line too long (87 > 79 characters)
+app/cli.py:602:1: W293  blank line contains whitespace
+app/cli.py:607:1: W293  blank line contains whitespace
+app/cli.py:615:1: E302  expected 2 blank lines, found 1
+app/cli.py:627:1: W293  blank line contains whitespace
+app/cli.py:632:1: W293  blank line contains whitespace
+app/cli.py:635:1: W293  blank line contains whitespace
+app/cli.py:642:1: W293  blank line contains whitespace
+app/cli.py:649:1: W293  blank line contains whitespace
+app/cli.py:661:1: W293  blank line contains whitespace
+app/cli.py:665:80: E501  line too long (81 > 79 characters)
+app/cli.py:666:1: W293  blank line contains whitespace
+app/cli.py:671:1: E302  expected 2 blank lines, found 1
+app/cli.py:684:1: W293  blank line contains whitespace
+app/cli.py:689:1: W293  blank line contains whitespace
+app/cli.py:693:1: W293  blank line contains whitespace
+app/cli.py:697:1: W293  blank line contains whitespace
+app/cli.py:704:1: W293  blank line contains whitespace
+app/cli.py:711:1: W293  blank line contains whitespace
+app/cli.py:714:1: W293  blank line contains whitespace
+app/cli.py:726:1: W293  blank line contains whitespace
+app/cli.py:729:80: E501  line too long (84 > 79 characters)
+app/cli.py:730:1: W293  blank line contains whitespace
+app/cli.py:735:1: E302  expected 2 blank lines, found 1
+app/cli.py:744:1: W293  blank line contains whitespace
+app/cli.py:749:1: W293  blank line contains whitespace
+app/cli.py:753:1: W293  blank line contains whitespace
+app/cli.py:757:1: W293  blank line contains whitespace
+app/cli.py:761:1: W293  blank line contains whitespace
+app/cli.py:773:1: W293  blank line contains whitespace
+app/cli.py:775:1: W293  blank line contains whitespace
+app/cli.py:780:1: E302  expected 2 blank lines, found 1
+app/cli.py:786:1: W293  blank line contains whitespace
+app/cli.py:798:1: W293  blank line contains whitespace
+app/cli.py:806:1: E302  expected 2 blank lines, found 1
+app/cli.py:816:1: W293  blank line contains whitespace
+app/cli.py:821:1: W293  blank line contains whitespace
+app/cli.py:825:1: W293  blank line contains whitespace
+app/cli.py:830:1: W293  blank line contains whitespace
+app/cli.py:835:1: E302  expected 2 blank lines, found 1
+app/cli.py:843:1: W293  blank line contains whitespace
+app/cli.py:848:1: W293  blank line contains whitespace
+app/cli.py:852:1: W293  blank line contains whitespace
+app/cli.py:857:80: E501  line too long (105 > 79 characters)
+app/cli.py:858:1: W293  blank line contains whitespace
+app/cli.py:865:1: W293  blank line contains whitespace
+app/cli.py:870:1: E302  expected 2 blank lines, found 1
+app/cli.py:879:1: W293  blank line contains whitespace
+app/cli.py:884:1: W293  blank line contains whitespace
+app/cli.py:888:1: W293  blank line contains whitespace
+app/cli.py:893:1: W293  blank line contains whitespace
+app/cli.py:898:1: E302  expected 2 blank lines, found 1
+app/cli.py:906:1: W293  blank line contains whitespace
+app/cli.py:911:1: W293  blank line contains whitespace
+app/cli.py:915:1: W293  blank line contains whitespace
+app/cli.py:919:1: W293  blank line contains whitespace
+app/cli.py:924:1: W293  blank line contains whitespace
+app/cli.py:929:1: W293  blank line contains whitespace
+app/cli.py:932:1: W293  blank line contains whitespace
+app/cli.py:934:24: F541  f-string is missing placeholders
+app/cli.py:940:1: W293  blank line contains whitespace
+app/cli.py:945:1: E302  expected 2 blank lines, found 1
+app/cli.py:953:1: W293  blank line contains whitespace
+app/cli.py:958:1: W293  blank line contains whitespace
+app/cli.py:961:1: W293  blank line contains whitespace
+app/cli.py:969:80: E501  line too long (89 > 79 characters)
+app/cli.py:975:1: W293  blank line contains whitespace
+app/cli.py:983:1: E302  expected 2 blank lines, found 1
+app/cli.py:994:1: W293  blank line contains whitespace
+app/cli.py:997:1: W293  blank line contains whitespace
+app/cli.py:1001:1: W293  blank line contains whitespace
+app/cli.py:1004:1: W293  blank line contains whitespace
+app/cli.py:1012:1: E305  expected 2 blank lines after class or function definition, found 1
+app/core\advanced_logger.py:8:80: E501  line too long (85 > 79 characters)
+app/core\advanced_logger.py:9:80: E501  line too long (88 > 79 characters)
+app/core\advanced_logger.py:10:80: E501  line too long (84 > 79 characters)
+app/core\advanced_logger.py:36:1: F401  'typing.Dict' imported but unused
+app/core\advanced_logger.py:36:1: F401  'typing.List' imported but unused
+app/core\advanced_logger.py:36:1: F401  'typing.Optional' imported but unused
+app/core\advanced_logger.py:36:1: F401  'typing.Any' imported but unused
+app/core\advanced_logger.py:43:1: E302  expected 2 blank lines, found 1
+app/core\advanced_logger.py:62:1: E302  expected 2 blank lines, found 1
+app/core\advanced_logger.py:69:1: E302  expected 2 blank lines, found 1
+app/core\advanced_logger.py:71:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:77:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:80:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:89:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:93:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:103:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:106:80: E501  line too long (92 > 79 characters)
+app/core\advanced_logger.py:108:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:109:80: E501  line too long (111 > 79 characters)
+app/core\advanced_logger.py:112:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:120:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:131:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:134:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:137:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:140:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:143:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:147:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:149:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:154:80: E501  line too long (103 > 79 characters)
+app/core\advanced_logger.py:155:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:161:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:168:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:174:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:177:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:181:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:184:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:187:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:190:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:192:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:195:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:201:80: E501  line too long (93 > 79 characters)
+app/core\advanced_logger.py:203:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:209:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:210:80: E501  line too long (82 > 79 characters)
+app/core\advanced_logger.py:216:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:221:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:226:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:232:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:241:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:247:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:250:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:255:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:265:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:267:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:270:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:273:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:275:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:276:80: E501  line too long (81 > 79 characters)
+app/core\advanced_logger.py:280:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:283:80: E501  line too long (115 > 79 characters)
+app/core\advanced_logger.py:285:80: E501  line too long (113 > 79 characters)
+app/core\advanced_logger.py:289:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:293:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:294:80: E501  line too long (86 > 79 characters)
+app/core\advanced_logger.py:299:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:305:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:308:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:311:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:312:80: E501  line too long (91 > 79 characters)
+app/core\advanced_logger.py:313:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:322:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:330:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:338:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:341:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:344:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:348:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:352:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:355:80: E501  line too long (83 > 79 characters)
+app/core\advanced_logger.py:358:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:363:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:367:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:370:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:374:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:378:80: E501  line too long (94 > 79 characters)
+app/core\advanced_logger.py:380:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:383:80: E501  line too long (92 > 79 characters)
+app/core\advanced_logger.py:385:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:398:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:400:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:406:80: E501  line too long (83 > 79 characters)
+app/core\advanced_logger.py:407:80: E501  line too long (96 > 79 characters)
+app/core\advanced_logger.py:409:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:411:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:417:80: E501  line too long (95 > 79 characters)
+app/core\advanced_logger.py:419:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:421:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:425:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:427:80: E501  line too long (97 > 79 characters)
+app/core\advanced_logger.py:428:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:430:80: E501  line too long (81 > 79 characters)
+app/core\advanced_logger.py:431:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:433:80: E501  line too long (98 > 79 characters)
+app/core\advanced_logger.py:434:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:436:80: E501  line too long (82 > 79 characters)
+app/core\advanced_logger.py:437:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:439:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:445:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:450:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:457:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:465:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:470:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:476:1: W293  blank line contains whitespace
+app/core\advanced_logger.py:487:1: E305  expected 2 blank lines after class or function definition, found 1
+app/core\advanced_logger.py:487:35: W291  trailing whitespace
+app/core\advanced_logger.py:487:36: W292  no newline at end of file
+app/core\api_manager.py:28:80: E501  line too long (84 > 79 characters)
+app/core\api_manager.py:41:80: E501  line too long (96 > 79 characters)
+app/core\api_manager.py:52:80: E501  line too long (81 > 79 characters)
+app/core\api_manager.py:63:80: E501  line too long (87 > 79 characters)
+app/core\api_manager.py:67:80: E501  line too long (80 > 79 characters)
+app/core\api_manager.py:70:80: E501  line too long (86 > 79 characters)
+app/core\auth.py:8:80: E501  line too long (84 > 79 characters)
+app/core\auth.py:49:1: W293  blank line contains whitespace
+app/core\auth.py:89:80: E501  line too long (85 > 79 characters)
+app/core\auth.py:92:1: W293  blank line contains whitespace
+app/core\auth.py:94:1: W293  blank line contains whitespace
+app/core\auth.py:100:1: W293  blank line contains whitespace
+app/core\auth.py:102:1: W293  blank line contains whitespace
+app/core\auth.py:140:80: E501  line too long (88 > 79 characters)
+app/core\auth.py:148:1: W293  blank line contains whitespace
+app/core\auth.py:155:1: W293  blank line contains whitespace
+app/core\auth.py:179:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:8:80: E501  line too long (95 > 79 characters)
+app/core\crypto_manager.py:32:1: F401  'hashlib' imported but unused
+app/core\crypto_manager.py:36:1: F401  'cryptography.hazmat.primitives.hashes' imported but unused
+app/core\crypto_manager.py:37:1: F401  'cryptography.hazmat.primitives.kdf.pbkdf2.PBKDF2HMAC' imported but unused
+app/core\crypto_manager.py:38:1: F401  'cryptography.hazmat.primitives.ciphers.Cipher' imported but unused
+app/core\crypto_manager.py:38:1: F401  'cryptography.hazmat.primitives.ciphers.algorithms' imported but unused
+app/core\crypto_manager.py:38:1: F401  'cryptography.hazmat.primitives.ciphers.modes' imported but unused
+app/core\crypto_manager.py:39:1: F401  'cryptography.hazmat.backends.default_backend' imported but unused
+app/core\crypto_manager.py:48:1: E302  expected 2 blank lines, found 1
+app/core\crypto_manager.py:52:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:59:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:66:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:74:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:84:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:90:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:94:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:107:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:110:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:114:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:129:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:132:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:135:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:139:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:142:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:149:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:156:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:164:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:168:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:172:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:180:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:184:80: E501  line too long (93 > 79 characters)
+app/core\crypto_manager.py:187:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:192:13: F841  local variable 'current_key_id' is assigned to but never used
+app/core\crypto_manager.py:193:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:195:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:198:80: E501  line too long (93 > 79 characters)
+app/core\crypto_manager.py:199:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:205:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:208:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:216:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:220:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:222:80: E501  line too long (83 > 79 characters)
+app/core\crypto_manager.py:224:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:228:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:232:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:238:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:245:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:257:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:259:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:263:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:267:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:270:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:277:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:281:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:285:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:288:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:295:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:306:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:308:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:312:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:317:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:321:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:324:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:326:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:330:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:338:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:345:1: W293  blank line contains whitespace
+app/core\crypto_manager.py:355:1: E305  expected 2 blank lines after class or function definition, found 1
+app/core\crypto_manager.py:355:33: W291  trailing whitespace
+app/core\crypto_manager.py:355:34: W292  no newline at end of file
+app/core\integrity_manager.py:8:80: E501  line too long (92 > 79 characters)
+app/core\integrity_manager.py:9:80: E501  line too long (88 > 79 characters)
+app/core\integrity_manager.py:34:1: F401  'hmac' imported but unused
+app/core\integrity_manager.py:37:1: F401  'typing.Dict' imported but unused
+app/core\integrity_manager.py:37:1: F401  'typing.List' imported but unused
+app/core\integrity_manager.py:37:1: F401  'typing.Optional' imported but unused
+app/core\integrity_manager.py:40:1: F401  'cryptography.hazmat.primitives.ciphers.Cipher' imported but unused
+app/core\integrity_manager.py:40:1: F401  'cryptography.hazmat.primitives.ciphers.algorithms' imported but unused
+app/core\integrity_manager.py:40:1: F401  'cryptography.hazmat.primitives.ciphers.modes' imported but unused
+app/core\integrity_manager.py:41:1: F401  'cryptography.fernet.Fernet' imported but unused
+app/core\integrity_manager.py:44:1: E302  expected 2 blank lines, found 1
+app/core\integrity_manager.py:46:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:51:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:56:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:60:9: E122  continuation line missing indentation or outdented
+app/core\integrity_manager.py:61:9: E122  continuation line missing indentation or outdented
+app/core\integrity_manager.py:62:13: E131  continuation line unaligned for hanging indent
+app/core\integrity_manager.py:65:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:70:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:73:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:83:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:91:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:101:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:109:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:119:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:127:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:128:80: E501  line too long (83 > 79 characters)
+app/core\integrity_manager.py:132:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:135:80: E501  line too long (84 > 79 characters)
+app/core\integrity_manager.py:143:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:148:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:155:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:163:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:169:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:172:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:176:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:179:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:189:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:190:80: E501  line too long (81 > 79 characters)
+app/core\integrity_manager.py:193:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:197:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:203:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:205:80: E501  line too long (113 > 79 characters)
+app/core\integrity_manager.py:206:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:208:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:212:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:215:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:228:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:232:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:236:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:255:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:259:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:263:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:270:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:273:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:280:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:286:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:289:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:292:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:296:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:300:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:304:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:311:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:316:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:322:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:324:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:328:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:331:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:343:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:348:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:352:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:355:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:359:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:363:17: F841  local variable 'previous_modified' is assigned to but never used
+app/core\integrity_manager.py:363:80: E501  line too long (94 > 79 characters)
+app/core\integrity_manager.py:364:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:367:80: E501  line too long (82 > 79 characters)
+app/core\integrity_manager.py:368:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:376:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:378:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:386:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:397:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:401:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:406:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:418:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:420:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:424:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:434:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:439:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:440:80: E501  line too long (80 > 79 characters)
+app/core\integrity_manager.py:445:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:452:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:454:80: E501  line too long (85 > 79 characters)
+app/core\integrity_manager.py:455:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:462:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:468:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:471:80: E501  line too long (109 > 79 characters)
+app/core\integrity_manager.py:473:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:475:80: E501  line too long (86 > 79 characters)
+app/core\integrity_manager.py:477:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:479:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:489:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:495:80: E501  line too long (98 > 79 characters)
+app/core\integrity_manager.py:496:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:499:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:501:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:506:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:510:80: E501  line too long (94 > 79 characters)
+app/core\integrity_manager.py:511:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:514:1: W293  blank line contains whitespace
+app/core\integrity_manager.py:519:1: E305  expected 2 blank lines after class or function definition, found 1
+app/core\integrity_manager.py:519:39: W291  trailing whitespace
+app/core\integrity_manager.py:519:40: W292  no newline at end of file
+app/core\logger.py:8:80: E501  line too long (85 > 79 characters)
+app/core\rate_limiter.py:8:80: E501  line too long (106 > 79 characters)
+app/core\rate_limiter.py:9:80: E501  line too long (95 > 79 characters)
+app/core\rate_limiter.py:35:1: F401  'typing.Dict' imported but unused
+app/core\rate_limiter.py:35:1: F401  'typing.List' imported but unused
+app/core\rate_limiter.py:35:1: F401  'typing.Tuple' imported but unused
+app/core\rate_limiter.py:41:1: E302  expected 2 blank lines, found 1
+app/core\rate_limiter.py:43:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:48:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:55:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:63:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:69:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:79:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:87:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:97:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:105:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:115:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:123:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:127:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:131:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:137:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:144:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:146:80: E501  line too long (88 > 79 characters)
+app/core\rate_limiter.py:147:80: E501  line too long (89 > 79 characters)
+app/core\rate_limiter.py:149:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:155:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:157:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:161:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:165:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:170:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:176:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:183:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:188:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:190:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:193:80: E501  line too long (92 > 79 characters)
+app/core\rate_limiter.py:194:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:201:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:204:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:208:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:211:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:217:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:220:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:226:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:228:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:232:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:235:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:245:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:249:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:252:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:257:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:258:80: E501  line too long (84 > 79 characters)
+app/core\rate_limiter.py:261:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:265:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:274:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:278:80: E501  line too long (103 > 79 characters)
+app/core\rate_limiter.py:279:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:283:80: E501  line too long (90 > 79 characters)
+app/core\rate_limiter.py:284:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:287:80: E501  line too long (90 > 79 characters)
+app/core\rate_limiter.py:288:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:292:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:293:80: E501  line too long (93 > 79 characters)
+app/core\rate_limiter.py:295:80: E501  line too long (91 > 79 characters)
+app/core\rate_limiter.py:296:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:300:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:303:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:308:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:310:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:315:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:318:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:323:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:326:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:329:80: E501  line too long (106 > 79 characters)
+app/core\rate_limiter.py:330:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:332:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:341:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:345:80: E501  line too long (101 > 79 characters)
+app/core\rate_limiter.py:348:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:351:80: E501  line too long (123 > 79 characters)
+app/core\rate_limiter.py:353:80: E501  line too long (81 > 79 characters)
+app/core\rate_limiter.py:354:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:356:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:360:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:369:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:376:1: W293  blank line contains whitespace
+app/core\rate_limiter.py:381:1: E305  expected 2 blank lines after class or function definition, found 1
+app/core\rate_limiter.py:381:29: W291  trailing whitespace
+app/core\rate_limiter.py:381:30: W292  no newline at end of file
+app/core\security.py:11:80: E501  line too long (80 > 79 characters)
+app/core\session.py:9:80: E501  line too long (80 > 79 characters)
+app/core\session.py:29:1: F401  'time' imported but unused
+app/core\session.py:40:80: E501  line too long (81 > 79 characters)
+app/core\session.py:43:1: E302  expected 2 blank lines, found 1
+app/core\session.py:47:1: W293  blank line contains whitespace
+app/core\session.py:52:1: W293  blank line contains whitespace
+app/core\session.py:58:1: W293  blank line contains whitespace
+app/core\session.py:67:1: W293  blank line contains whitespace
+app/core\session.py:77:1: W293  blank line contains whitespace
+app/core\session.py:81:1: W293  blank line contains whitespace
+app/core\session.py:84:1: W293  blank line contains whitespace
+app/core\session.py:90:80: E501  line too long (83 > 79 characters)
+app/core\session.py:91:1: W293  blank line contains whitespace
+app/core\session.py:101:1: W293  blank line contains whitespace
+app/core\session.py:104:1: W293  blank line contains whitespace
+app/core\session.py:115:1: W293  blank line contains whitespace
+app/core\session.py:118:1: W293  blank line contains whitespace
+app/core\session.py:121:1: W293  blank line contains whitespace
+app/core\session.py:125:1: W293  blank line contains whitespace
+app/core\session.py:128:1: W293  blank line contains whitespace
+app/core\session.py:136:1: W293  blank line contains whitespace
+app/core\session.py:141:1: W293  blank line contains whitespace
+app/core\session.py:146:1: W293  blank line contains whitespace
+app/core\session.py:155:1: W293  blank line contains whitespace
+app/core\session.py:159:1: W293  blank line contains whitespace
+app/core\session.py:161:1: W293  blank line contains whitespace
+app/core\session.py:171:1: W293  blank line contains whitespace
+app/core\session.py:175:1: W293  blank line contains whitespace
+app/core\session.py:178:1: W293  blank line contains whitespace
+app/core\session.py:185:1: W293  blank line contains whitespace
+app/core\session.py:191:1: W293  blank line contains whitespace
+app/core\session.py:193:1: W293  blank line contains whitespace
+app/core\session.py:199:1: W293  blank line contains whitespace
+app/core\session.py:203:1: W293  blank line contains whitespace
+app/core\session.py:206:1: W293  blank line contains whitespace
+app/core\session.py:213:1: W293  blank line contains whitespace
+app/core\session.py:219:1: W293  blank line contains whitespace
+app/core\session.py:222:1: W293  blank line contains whitespace
+app/core\session.py:225:1: W293  blank line contains whitespace
+app/core\session.py:229:1: W293  blank line contains whitespace
+app/core\session.py:235:1: W293  blank line contains whitespace
+app/core\session.py:241:1: W293  blank line contains whitespace
+app/core\session.py:243:1: W293  blank line contains whitespace
+app/core\session.py:248:1: W293  blank line contains whitespace
+app/core\session.py:253:1: W293  blank line contains whitespace
+app/core\session.py:256:1: W293  blank line contains whitespace
+app/core\session.py:262:1: E305  expected 2 blank lines after class or function definition, found 1
+app/core\session.py:262:35: W291  trailing whitespace
+app/core\session.py:262:36: W292  no newline at end of file
+app/core\ssrf_protection.py:36:1: F401  'urllib.parse.urljoin' imported but unused
+app/core\ssrf_protection.py:37:1: F401  'typing.Dict' imported but unused
+app/core\ssrf_protection.py:37:1: F401  'typing.Optional' imported but unused
+app/core\ssrf_protection.py:37:1: F401  'typing.Tuple' imported but unused
+app/core\ssrf_protection.py:41:1: E302  expected 2 blank lines, found 1
+app/core\ssrf_protection.py:43:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:46:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:53:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:56:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:66:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:82:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:85:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:93:80: E501  line too long (94 > 79 characters)
+app/core\ssrf_protection.py:94:80: E501  line too long (100 > 79 characters)
+app/core\ssrf_protection.py:95:80: E501  line too long (88 > 79 characters)
+app/core\ssrf_protection.py:99:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:106:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:117:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:122:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:126:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:129:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:139:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:143:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:147:80: E501  line too long (86 > 79 characters)
+app/core\ssrf_protection.py:148:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:153:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:159:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:165:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:169:80: E501  line too long (85 > 79 characters)
+app/core\ssrf_protection.py:170:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:175:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:184:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:188:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:190:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:194:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:197:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:204:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:211:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:213:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:217:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:221:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:223:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:229:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:232:80: E501  line too long (92 > 79 characters)
+app/core\ssrf_protection.py:234:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:236:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:241:80: E501  line too long (80 > 79 characters)
+app/core\ssrf_protection.py:243:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:247:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:250:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:255:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:271:80: E501  line too long (81 > 79 characters)
+app/core\ssrf_protection.py:273:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:278:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:284:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:290:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:292:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:298:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:301:80: E501  line too long (122 > 79 characters)
+app/core\ssrf_protection.py:304:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:308:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:310:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:313:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:317:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:320:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:325:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:345:80: E501  line too long (92 > 79 characters)
+app/core\ssrf_protection.py:350:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:352:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:362:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:366:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:368:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:372:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:375:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:385:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:389:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:392:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:402:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:413:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:415:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:419:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:422:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:433:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:437:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:445:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:447:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:452:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:455:1: W293  blank line contains whitespace
+app/core\ssrf_protection.py:459:1: E305  expected 2 blank lines after class or function definition, found 1
+app/core\ssrf_protection.py:459:35: W291  trailing whitespace
+app/core\ssrf_protection.py:459:36: W292  no newline at end of file
+app/core\storage.py:8:80: E501  line too long (80 > 79 characters)
+app/core\storage.py:10:80: E501  line too long (82 > 79 characters)
+app/core\storage.py:21:80: E501  line too long (80 > 79 characters)
+app/core\storage.py:114:80: E501  line too long (84 > 79 characters)
+app/core\storage.py:133:1: W293  blank line contains whitespace
+app/core\storage.py:157:1: W293  blank line contains whitespace
+app/core\storage.py:169:1: W293  blank line contains whitespace
+app/core\threat_model.py:8:80: E501  line too long (83 > 79 characters)
+app/core\threat_model.py:33:1: F401  'typing.Optional' imported but unused
+app/core\threat_model.py:36:1: E302  expected 2 blank lines, found 1
+app/core\threat_model.py:45:1: E302  expected 2 blank lines, found 1
+app/core\threat_model.py:53:1: E302  expected 2 blank lines, found 1
+app/core\threat_model.py:61:1: E302  expected 2 blank lines, found 1
+app/core\threat_model.py:65:1: W293  blank line contains whitespace
+app/core\threat_model.py:71:1: W293  blank line contains whitespace
+app/core\threat_model.py:76:1: W293  blank line contains whitespace
+app/core\threat_model.py:83:1: W293  blank line contains whitespace
+app/core\threat_model.py:91:1: W293  blank line contains whitespace
+app/core\threat_model.py:99:80: E501  line too long (113 > 79 characters)
+app/core\threat_model.py:126:80: E501  line too long (101 > 79 characters)
+app/core\threat_model.py:153:80: E501  line too long (110 > 79 characters)
+app/core\threat_model.py:180:80: E501  line too long (106 > 79 characters)
+app/core\threat_model.py:207:80: E501  line too long (99 > 79 characters)
+app/core\threat_model.py:234:80: E501  line too long (82 > 79 characters)
+app/core\threat_model.py:261:80: E501  line too long (99 > 79 characters)
+app/core\threat_model.py:288:80: E501  line too long (83 > 79 characters)
+app/core\threat_model.py:315:80: E501  line too long (103 > 79 characters)
+app/core\threat_model.py:342:80: E501  line too long (100 > 79 characters)
+app/core\threat_model.py:368:1: W293  blank line contains whitespace
+app/core\threat_model.py:372:1: W293  blank line contains whitespace
+app/core\threat_model.py:391:1: W293  blank line contains whitespace
+app/core\threat_model.py:397:1: W293  blank line contains whitespace
+app/core\threat_model.py:402:1: W293  blank line contains whitespace
+app/core\threat_model.py:407:1: W293  blank line contains whitespace
+app/core\threat_model.py:412:1: W293  blank line contains whitespace
+app/core\threat_model.py:422:1: W293  blank line contains whitespace
+app/core\threat_model.py:425:80: E501  line too long (85 > 79 characters)
+app/core\threat_model.py:427:1: W293  blank line contains whitespace
+app/core\threat_model.py:430:1: W293  blank line contains whitespace
+app/core\threat_model.py:432:1: W293  blank line contains whitespace
+app/core\threat_model.py:436:1: W293  blank line contains whitespace
+app/core\threat_model.py:439:1: W293  blank line contains whitespace
+app/core\threat_model.py:445:1: W293  blank line contains whitespace
+app/core\threat_model.py:447:1: W293  blank line contains whitespace
+app/core\threat_model.py:456:1: W293  blank line contains whitespace
+app/core\threat_model.py:458:1: W293  blank line contains whitespace
+app/core\threat_model.py:467:1: W293  blank line contains whitespace
+app/core\threat_model.py:469:1: W293  blank line contains whitespace
+app/core\threat_model.py:471:1: W293  blank line contains whitespace
+app/core\threat_model.py:475:1: W293  blank line contains whitespace
+app/core\threat_model.py:478:1: W293  blank line contains whitespace
+app/core\threat_model.py:484:1: W293  blank line contains whitespace
+app/core\threat_model.py:486:1: W293  blank line contains whitespace
+app/core\threat_model.py:490:1: W293  blank line contains whitespace
+app/core\threat_model.py:494:1: W293  blank line contains whitespace
+app/core\threat_model.py:500:1: W293  blank line contains whitespace
+app/core\threat_model.py:504:1: W293  blank line contains whitespace
+app/core\threat_model.py:507:1: W293  blank line contains whitespace
+app/core\threat_model.py:511:1: W293  blank line contains whitespace
+app/core\threat_model.py:514:1: W293  blank line contains whitespace
+app/core\threat_model.py:521:1: W293  blank line contains whitespace
+app/core\threat_model.py:524:1: W293  blank line contains whitespace
+app/core\threat_model.py:527:1: W293  blank line contains whitespace
+app/core\threat_model.py:531:1: W293  blank line contains whitespace
+app/core\threat_model.py:536:1: W293  blank line contains whitespace
+app/core\threat_model.py:540:80: E501  line too long (87 > 79 characters)
+app/core\threat_model.py:541:80: E501  line too long (83 > 79 characters)
+app/core\threat_model.py:543:1: W293  blank line contains whitespace
+app/core\threat_model.py:546:80: E501  line too long (104 > 79 characters)
+app/core\threat_model.py:548:1: W293  blank line contains whitespace
+app/core\threat_model.py:554:1: W293  blank line contains whitespace
+app/core\threat_model.py:557:80: E501  line too long (94 > 79 characters)
+app/core\threat_model.py:559:1: W293  blank line contains whitespace
+app/core\threat_model.py:567:1: W293  blank line contains whitespace
+app/core\threat_model.py:570:80: E501  line too long (88 > 79 characters)
+app/core\threat_model.py:572:1: W293  blank line contains whitespace
+app/core\threat_model.py:574:1: W293  blank line contains whitespace
+app/core\threat_model.py:578:1: W293  blank line contains whitespace
+app/core\threat_model.py:581:1: W293  blank line contains whitespace
+app/core\threat_model.py:597:1: E305  expected 2 blank lines after class or function definition, found 1
+app/core\threat_model.py:597:29: W291  trailing whitespace
+app/core\threat_model.py:597:30: W292  no newline at end of file
+app/core\vulnerability_scanner.py:8:80: E501  line too long (87 > 79 characters)
+app/core\vulnerability_scanner.py:31:1: F401  'subprocess' imported but unused
+app/core\vulnerability_scanner.py:32:1: F401  'requests' imported but unused
+app/core\vulnerability_scanner.py:33:1: F401  'datetime.timedelta' imported but unused
+app/core\vulnerability_scanner.py:34:1: F401  'typing.Optional' imported but unused
+app/core\vulnerability_scanner.py:38:1: E302  expected 2 blank lines, found 1
+app/core\vulnerability_scanner.py:46:1: E302  expected 2 blank lines, found 1
+app/core\vulnerability_scanner.py:53:1: E302  expected 2 blank lines, found 1
+app/core\vulnerability_scanner.py:55:80: E501  line too long (80 > 79 characters)
+app/core\vulnerability_scanner.py:57:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:65:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:69:80: E501  line too long (88 > 79 characters)
+app/core\vulnerability_scanner.py:72:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:77:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:84:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:92:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:97:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:104:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:112:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:187:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:191:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:195:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:208:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:210:80: E501  line too long (81 > 79 characters)
+app/core\vulnerability_scanner.py:212:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:219:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:221:80: E501  line too long (91 > 79 characters)
+app/core\vulnerability_scanner.py:222:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:226:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:227:80: E501  line too long (121 > 79 characters)
+app/core\vulnerability_scanner.py:229:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:230:80: E501  line too long (81 > 79 characters)
+app/core\vulnerability_scanner.py:233:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:237:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:246:80: E501  line too long (104 > 79 characters)
+app/core\vulnerability_scanner.py:250:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:252:80: E501  line too long (106 > 79 characters)
+app/core\vulnerability_scanner.py:256:80: E501  line too long (83 > 79 characters)
+app/core\vulnerability_scanner.py:257:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:259:80: E501  line too long (82 > 79 characters)
+app/core\vulnerability_scanner.py:262:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:265:80: E501  line too long (85 > 79 characters)
+app/core\vulnerability_scanner.py:266:80: E501  line too long (91 > 79 characters)
+app/core\vulnerability_scanner.py:267:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:269:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:270:80: E501  line too long (96 > 79 characters)
+app/core\vulnerability_scanner.py:273:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:277:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:282:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:283:80: E501  line too long (103 > 79 characters)
+app/core\vulnerability_scanner.py:285:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:292:80: E501  line too long (99 > 79 characters)
+app/core\vulnerability_scanner.py:296:80: E501  line too long (94 > 79 characters)
+app/core\vulnerability_scanner.py:298:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:304:80: E501  line too long (96 > 79 characters)
+app/core\vulnerability_scanner.py:308:80: E501  line too long (94 > 79 characters)
+app/core\vulnerability_scanner.py:310:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:312:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:313:80: E501  line too long (80 > 79 characters)
+app/core\vulnerability_scanner.py:316:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:320:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:324:80: E501  line too long (101 > 79 characters)
+app/core\vulnerability_scanner.py:331:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:334:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:336:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:340:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:343:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:349:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:357:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:363:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:365:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:369:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:374:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:375:80: E501  line too long (95 > 79 characters)
+app/core\vulnerability_scanner.py:377:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:385:80: E501  line too long (106 > 79 characters)
+app/core\vulnerability_scanner.py:395:80: E501  line too long (92 > 79 characters)
+app/core\vulnerability_scanner.py:398:80: E501  line too long (88 > 79 characters)
+app/core\vulnerability_scanner.py:401:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:405:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:409:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:413:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:419:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:423:80: E501  line too long (91 > 79 characters)
+app/core\vulnerability_scanner.py:424:80: E501  line too long (84 > 79 characters)
+app/core\vulnerability_scanner.py:425:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:427:13: F841  local variable 'scan_result' is assigned to but never used
+app/core\vulnerability_scanner.py:427:80: E501  line too long (95 > 79 characters)
+app/core\vulnerability_scanner.py:428:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:430:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:431:80: E501  line too long (87 > 79 characters)
+app/core\vulnerability_scanner.py:433:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:435:80: E501  line too long (82 > 79 characters)
+app/core\vulnerability_scanner.py:437:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:441:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:444:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:450:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:453:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:464:80: E501  line too long (122 > 79 characters)
+app/core\vulnerability_scanner.py:465:80: E501  line too long (113 > 79 characters)
+app/core\vulnerability_scanner.py:469:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:478:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:482:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:485:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:490:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:493:80: E501  line too long (99 > 79 characters)
+app/core\vulnerability_scanner.py:495:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:498:80: E501  line too long (102 > 79 characters)
+app/core\vulnerability_scanner.py:500:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:501:80: E501  line too long (80 > 79 characters)
+app/core\vulnerability_scanner.py:505:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:509:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:511:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:524:80: E501  line too long (84 > 79 characters)
+app/core\vulnerability_scanner.py:525:80: E501  line too long (80 > 79 characters)
+app/core\vulnerability_scanner.py:532:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:539:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:540:80: E501  line too long (91 > 79 characters)
+app/core\vulnerability_scanner.py:543:80: E501  line too long (87 > 79 characters)
+app/core\vulnerability_scanner.py:546:1: W293  blank line contains whitespace
+app/core\vulnerability_scanner.py:550:1: E305  expected 2 blank lines after class or function definition, found 1
+app/core\vulnerability_scanner.py:550:47: W291  trailing whitespace
+app/core\vulnerability_scanner.py:550:48: W292  no newline at end of file
+app/models\cart.py:8:80: E501  line too long (81 > 79 characters)
+app/models\cart.py:28:1: F401  'decimal.ROUND_HALF_UP' imported but unused
+app/models\cart.py:32:1: E302  expected 2 blank lines, found 1
+app/models\cart.py:34:1: W293  blank line contains whitespace
+app/models\cart.py:40:1: W293  blank line contains whitespace
+app/models\cart.py:49:1: W293  blank line contains whitespace
+app/models\cart.py:58:1: E302  expected 2 blank lines, found 1
+app/models\cart.py:60:1: W293  blank line contains whitespace
+app/models\cart.py:71:1: W293  blank line contains whitespace
+app/models\cart.py:75:80: E501  line too long (90 > 79 characters)
+app/models\cart.py:76:80: E501  line too long (89 > 79 characters)
+app/models\cart.py:77:80: E501  line too long (92 > 79 characters)
+app/models\cart.py:80:1: W293  blank line contains whitespace
+app/models\cart.py:83:1: W293  blank line contains whitespace
+app/models\cart.py:90:1: W293  blank line contains whitespace
+app/models\cart.py:96:1: W293  blank line contains whitespace
+app/models\cart.py:101:80: E501  line too long (86 > 79 characters)
+app/models\cart.py:102:1: W293  blank line contains whitespace
+app/models\cart.py:105:80: E501  line too long (84 > 79 characters)
+app/models\cart.py:107:80: E501  line too long (88 > 79 characters)
+app/models\cart.py:109:80: E501  line too long (84 > 79 characters)
+app/models\cart.py:110:1: W293  blank line contains whitespace
+app/models\cart.py:112:80: E501  line too long (82 > 79 characters)
+app/models\cart.py:113:1: W293  blank line contains whitespace
+app/models\cart.py:119:1: W293  blank line contains whitespace
+app/models\cart.py:134:1: W293  blank line contains whitespace
+app/models\cart.py:137:1: W293  blank line contains whitespace
+app/models\cart.py:139:80: E501  line too long (82 > 79 characters)
+app/models\cart.py:140:1: W293  blank line contains whitespace
+app/models\cart.py:144:1: W293  blank line contains whitespace
+app/models\cart.py:148:1: W293  blank line contains whitespace
+app/models\cart.py:155:80: E501  line too long (81 > 79 characters)
+app/models\cart.py:157:1: W293  blank line contains whitespace
+app/models\cart.py:164:1: W293  blank line contains whitespace
+app/models\cart.py:167:1: W293  blank line contains whitespace
+app/models\cart.py:168:80: E501  line too long (100 > 79 characters)
+app/models\cart.py:170:1: W293  blank line contains whitespace
+app/models\cart.py:174:1: W293  blank line contains whitespace
+app/models\cart.py:178:1: W293  blank line contains whitespace
+app/models\cart.py:181:1: W293  blank line contains whitespace
+app/models\cart.py:190:1: W293  blank line contains whitespace
+app/models\cart.py:191:80: E501  line too long (94 > 79 characters)
+app/models\cart.py:193:1: W293  blank line contains whitespace
+app/models\cart.py:195:1: W293  blank line contains whitespace
+app/models\cart.py:199:1: W293  blank line contains whitespace
+app/models\cart.py:203:1: W293  blank line contains whitespace
+app/models\cart.py:207:1: W293  blank line contains whitespace
+app/models\cart.py:215:1: W293  blank line contains whitespace
+app/models\cart.py:218:80: E501  line too long (82 > 79 characters)
+app/models\cart.py:220:1: W293  blank line contains whitespace
+app/models\cart.py:225:1: W293  blank line contains whitespace
+app/models\cart.py:226:80: E501  line too long (87 > 79 characters)
+app/models\cart.py:228:1: W293  blank line contains whitespace
+app/models\cart.py:230:1: W293  blank line contains whitespace
+app/models\cart.py:234:1: W293  blank line contains whitespace
+app/models\cart.py:238:1: W293  blank line contains whitespace
+app/models\cart.py:250:1: W293  blank line contains whitespace
+app/models\cart.py:253:1: W293  blank line contains whitespace
+app/models\cart.py:257:1: W293  blank line contains whitespace
+app/models\cart.py:261:1: W293  blank line contains whitespace
+app/models\cart.py:268:1: W293  blank line contains whitespace
+app/models\cart.py:274:1: W293  blank line contains whitespace
+app/models\cart.py:283:1: W293  blank line contains whitespace
+app/models\cart.py:285:80: E501  line too long (81 > 79 characters)
+app/models\cart.py:286:1: W293  blank line contains whitespace
+app/models\cart.py:289:1: W293  blank line contains whitespace
+app/models\cart.py:292:1: W293  blank line contains whitespace
+app/models\cart.py:301:80: E501  line too long (85 > 79 characters)
+app/models\cart.py:309:1: W293  blank line contains whitespace
+app/models\cart.py:313:1: W293  blank line contains whitespace
+app/models\cart.py:317:1: W293  blank line contains whitespace
+app/models\cart.py:320:1: W293  blank line contains whitespace
+app/models\cart.py:325:80: E501  line too long (80 > 79 characters)
+app/models\cart.py:328:80: E501  line too long (87 > 79 characters)
+app/models\cart.py:330:1: W293  blank line contains whitespace
+app/models\cart.py:334:1: W293  blank line contains whitespace
+app/models\cart.py:337:1: W293  blank line contains whitespace
+app/models\cart.py:341:1: W293  blank line contains whitespace
+app/models\cart.py:345:1: W293  blank line contains whitespace
+app/models\cart.py:348:1: W293  blank line contains whitespace
+app/models\cart.py:357:1: W293  blank line contains whitespace
+app/models\cart.py:361:1: W293  blank line contains whitespace
+app/models\cart.py:362:80: E501  line too long (87 > 79 characters)
+app/models\cart.py:364:1: W293  blank line contains whitespace
+app/models\cart.py:368:1: W293  blank line contains whitespace
+app/models\cart.py:372:1: W293  blank line contains whitespace
+app/models\cart.py:375:1: W293  blank line contains whitespace
+app/models\cart.py:383:1: W293  blank line contains whitespace
+app/models\cart.py:387:1: W293  blank line contains whitespace
+app/models\cart.py:388:80: E501  line too long (80 > 79 characters)
+app/models\cart.py:390:1: W293  blank line contains whitespace
+app/models\cart.py:394:1: W293  blank line contains whitespace
+app/models\cart.py:398:1: W293  blank line contains whitespace
+app/models\cart.py:401:1: W293  blank line contains whitespace
+app/models\cart.py:410:1: W293  blank line contains whitespace
+app/models\cart.py:415:1: W293  blank line contains whitespace
+app/models\cart.py:416:80: E501  line too long (90 > 79 characters)
+app/models\cart.py:418:1: W293  blank line contains whitespace
+app/models\cart.py:420:1: W293  blank line contains whitespace
+app/models\cart.py:424:1: W293  blank line contains whitespace
+app/models\cart.py:428:1: W293  blank line contains whitespace
+app/models\cart.py:431:1: W293  blank line contains whitespace
+app/models\cart.py:440:1: W293  blank line contains whitespace
+app/models\cart.py:441:80: E501  line too long (94 > 79 characters)
+app/models\cart.py:443:1: W293  blank line contains whitespace
+app/models\cart.py:445:1: W293  blank line contains whitespace
+app/models\cart.py:449:1: W293  blank line contains whitespace
+app/models\cart.py:453:1: W293  blank line contains whitespace
+app/models\cart.py:458:1: W293  blank line contains whitespace
+app/models\cart.py:463:1: W293  blank line contains whitespace
+app/models\cart.py:468:1: W293  blank line contains whitespace
+app/models\cart.py:473:1: W293  blank line contains whitespace
+app/models\cart.py:483:1: W293  blank line contains whitespace
+app/models\cart.py:489:1: W293  blank line contains whitespace
+app/models\cart.py:493:1: W293  blank line contains whitespace
+app/models\cart.py:497:80: E501  line too long (81 > 79 characters)
+app/models\cart.py:508:1: W293  blank line contains whitespace
+app/models\cart.py:509:21: W291  trailing whitespace
+app/models\cart.py:509:22: W292  no newline at end of file
+app/models\order.py:34:1: E302  expected 2 blank lines, found 1
+app/models\order.py:45:1: E302  expected 2 blank lines, found 1
+app/models\order.py:54:1: E302  expected 2 blank lines, found 1
+app/models\order.py:56:1: W293  blank line contains whitespace
+app/models\order.py:69:1: W293  blank line contains whitespace
+app/models\order.py:77:1: W293  blank line contains whitespace
+app/models\order.py:83:1: W293  blank line contains whitespace
+app/models\order.py:86:1: W293  blank line contains whitespace
+app/models\order.py:90:1: W293  blank line contains whitespace
+app/models\order.py:96:1: W293  blank line contains whitespace
+app/models\order.py:100:1: W293  blank line contains whitespace
+app/models\order.py:104:1: W293  blank line contains whitespace
+app/models\order.py:112:1: W293  blank line contains whitespace
+app/models\order.py:114:1: W293  blank line contains whitespace
+app/models\order.py:124:80: E501  line too long (107 > 79 characters)
+app/models\order.py:139:1: W293  blank line contains whitespace
+app/models\order.py:148:80: E501  line too long (129 > 79 characters)
+app/models\order.py:162:1: E302  expected 2 blank lines, found 1
+app/models\order.py:164:1: W293  blank line contains whitespace
+app/models\order.py:169:1: W293  blank line contains whitespace
+app/models\order.py:172:1: W293  blank line contains whitespace
+app/models\order.py:179:1: W293  blank line contains whitespace
+app/models\order.py:185:1: W293  blank line contains whitespace
+app/models\order.py:190:1: W293  blank line contains whitespace
+app/models\order.py:193:1: W293  blank line contains whitespace
+app/models\order.py:201:1: W293  blank line contains whitespace
+app/models\order.py:204:1: W293  blank line contains whitespace
+app/models\order.py:207:1: W293  blank line contains whitespace
+app/models\order.py:208:80: E501  line too long (107 > 79 characters)
+app/models\order.py:211:1: W293  blank line contains whitespace
+app/models\order.py:216:1: W293  blank line contains whitespace
+app/models\order.py:225:1: W293  blank line contains whitespace
+app/models\order.py:229:1: W293  blank line contains whitespace
+app/models\order.py:232:1: W293  blank line contains whitespace
+app/models\order.py:235:80: E501  line too long (81 > 79 characters)
+app/models\order.py:238:1: W293  blank line contains whitespace
+app/models\order.py:241:1: W293  blank line contains whitespace
+app/models\order.py:245:1: W293  blank line contains whitespace
+app/models\order.py:248:1: W293  blank line contains whitespace
+app/models\order.py:251:1: W293  blank line contains whitespace
+app/models\order.py:255:1: W293  blank line contains whitespace
+app/models\order.py:259:1: W293  blank line contains whitespace
+app/models\order.py:262:1: W293  blank line contains whitespace
+app/models\order.py:267:1: W293  blank line contains whitespace
+app/models\order.py:271:1: W293  blank line contains whitespace
+app/models\order.py:274:1: W293  blank line contains whitespace
+app/models\order.py:278:80: E501  line too long (84 > 79 characters)
+app/models\order.py:279:1: W293  blank line contains whitespace
+app/models\order.py:280:80: E501  line too long (97 > 79 characters)
+app/models\order.py:283:1: W293  blank line contains whitespace
+app/models\order.py:288:1: W293  blank line contains whitespace
+app/models\order.py:297:1: W293  blank line contains whitespace
+app/models\order.py:301:1: W293  blank line contains whitespace
+app/models\order.py:308:1: W293  blank line contains whitespace
+app/models\order.py:316:1: W293  blank line contains whitespace
+app/models\order.py:318:1: W293  blank line contains whitespace
+app/models\order.py:319:80: E501  line too long (101 > 79 characters)
+app/models\order.py:321:1: W293  blank line contains whitespace
+app/models\order.py:325:1: W293  blank line contains whitespace
+app/models\order.py:326:80: E501  line too long (118 > 79 characters)
+app/models\order.py:329:1: W293  blank line contains whitespace
+app/models\order.py:334:1: W293  blank line contains whitespace
+app/models\order.py:342:1: W293  blank line contains whitespace
+app/models\order.py:345:1: W293  blank line contains whitespace
+app/models\order.py:348:1: W293  blank line contains whitespace
+app/models\order.py:351:80: E501  line too long (93 > 79 characters)
+app/models\order.py:353:80: E501  line too long (91 > 79 characters)
+app/models\order.py:354:1: W293  blank line contains whitespace
+app/models\order.py:356:1: W293  blank line contains whitespace
+app/models\order.py:357:80: E501  line too long (97 > 79 characters)
+app/models\order.py:359:1: W293  blank line contains whitespace
+app/models\order.py:363:1: W293  blank line contains whitespace
+app/models\order.py:368:1: W293  blank line contains whitespace
+app/models\order.py:373:1: W293  blank line contains whitespace
+app/models\order.py:380:1: W293  blank line contains whitespace
+app/models\order.py:384:1: W293  blank line contains whitespace
+app/models\order.py:389:1: W293  blank line contains whitespace
+app/models\order.py:394:1: W293  blank line contains whitespace
+app/models\order.py:397:1: W293  blank line contains whitespace
+app/models\order.py:399:80: E501  line too long (98 > 79 characters)
+app/models\order.py:400:1: W293  blank line contains whitespace
+app/models\order.py:405:80: E501  line too long (81 > 79 characters)
+app/models\order.py:407:80: E501  line too long (80 > 79 characters)
+app/models\order.py:408:1: W293  blank line contains whitespace
+app/models\order.py:410:1: W293  blank line contains whitespace
+app/models\order.py:415:1: W293  blank line contains whitespace
+app/models\order.py:417:80: E501  line too long (93 > 79 characters)
+app/models\order.py:418:80: E501  line too long (88 > 79 characters)
+app/models\order.py:419:1: W293  blank line contains whitespace
+app/models\order.py:420:80: E501  line too long (104 > 79 characters)
+app/models\order.py:421:1: W293  blank line contains whitespace
+app/models\order.py:426:1: W293  blank line contains whitespace
+app/models\order.py:429:1: W293  blank line contains whitespace
+app/models\order.py:434:1: W293  blank line contains whitespace
+app/models\order.py:436:1: W293  blank line contains whitespace
+app/models\order.py:440:1: W293  blank line contains whitespace
+app/models\order.py:444:1: W293  blank line contains whitespace
+app/models\order.py:446:80: E501  line too long (91 > 79 characters)
+app/models\order.py:448:1: W293  blank line contains whitespace
+app/models\order.py:450:1: W293  blank line contains whitespace
+app/models\order.py:453:1: W293  blank line contains whitespace
+app/models\order.py:457:1: W293  blank line contains whitespace
+app/models\order.py:461:1: W293  blank line contains whitespace
+app/models\order.py:469:1: W293  blank line contains whitespace
+app/models\order.py:472:80: E501  line too long (83 > 79 characters)
+app/models\order.py:474:1: W293  blank line contains whitespace
+app/models\order.py:476:80: E501  line too long (99 > 79 characters)
+app/models\order.py:477:1: W293  blank line contains whitespace
+app/models\order.py:481:1: W293  blank line contains whitespace
+app/models\order.py:484:1: W293  blank line contains whitespace
+app/models\order.py:488:1: W293  blank line contains whitespace
+app/models\order.py:492:80: E501  line too long (102 > 79 characters)
+app/models\order.py:493:80: E501  line too long (102 > 79 characters)
+app/models\order.py:494:1: W293  blank line contains whitespace
+app/models\order.py:495:80: E501  line too long (115 > 79 characters)
+app/models\order.py:496:1: W293  blank line contains whitespace
+app/models\order.py:500:80: E501  line too long (102 > 79 characters)
+app/models\order.py:501:1: W293  blank line contains whitespace
+app/models\order.py:503:80: E501  line too long (88 > 79 characters)
+app/models\order.py:504:1: W293  blank line contains whitespace
+app/models\order.py:512:80: E501  line too long (107 > 79 characters)
+app/models\order.py:514:1: W293  blank line contains whitespace
+app/models\order.py:518:1: W293  blank line contains whitespace
+app/models\order.py:521:1: W293  blank line contains whitespace
+app/models\order.py:526:1: W293  blank line contains whitespace
+app/models\order.py:529:1: W293  blank line contains whitespace
+app/models\order.py:531:80: E501  line too long (81 > 79 characters)
+app/models\order.py:533:1: W293  blank line contains whitespace
+app/models\order.py:537:1: W293  blank line contains whitespace
+app/models\order.py:543:1: W293  blank line contains whitespace
+app/models\order.py:548:1: W293  blank line contains whitespace
+app/models\order.py:550:80: E501  line too long (95 > 79 characters)
+app/models\order.py:552:1: W293  blank line contains whitespace
+app/models\order.py:553:80: E501  line too long (95 > 79 characters)
+app/models\order.py:555:1: W293  blank line contains whitespace
+app/models\order.py:558:1: W293  blank line contains whitespace
+app/models\order.py:562:1: E305  expected 2 blank lines after class or function definition, found 1
+app/models\order.py:562:31: W291  trailing whitespace
+app/models\order.py:562:32: W292  no newline at end of file
+app/models\product.py:9:80: E501  line too long (88 > 79 characters)
+app/models\product.py:43:80: E501  line too long (119 > 79 characters)
+app/models\user.py:34:80: E501  line too long (100 > 79 characters)
+app/models\user.py:41:80: E501  line too long (95 > 79 characters)
+app/models\user.py:42:80: E501  line too long (103 > 79 characters)

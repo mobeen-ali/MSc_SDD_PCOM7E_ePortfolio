@@ -1,0 +1,18 @@
+{
+  "user_id": "testuser",
+  "items": {
+    "03a3250b-3be7-45d8-b78c-b9cd25ee3f1d": {
+      "product_id": "03a3250b-3be7-45d8-b78c-b9cd25ee3f1d",
+      "quantity": 2,
+      "added_at": "2025-07-20T20:41:19.608956",
+      "last_updated": "2025-07-20T20:41:47.504867"
+    }
+  },
+  "coupons": [],
+  "shipping_address": null,
+  "payment_method": null,
+  "selected_shipping": "standard",
+  "created_at": "2025-07-20T20:41:19.608956",
+  "last_updated": "2025-07-20T20:41:47.504867",
+  "expires_at": "2025-08-19T20:41:19.608956"
+}

@@ -1,0 +1,4 @@
+Username: admin
+Enter password:
+Confirm password:
+User 'admin' registered successfully!
