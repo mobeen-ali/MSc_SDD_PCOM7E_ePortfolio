@@ -133,7 +133,7 @@ SSD_E-Portfolio/
 │   ├── PROJECT_EVOLUTION_SUMMARY.md         # Growth demonstration
 │   └── unit-11_summary.md
 ├── Unit_12/                         # Final reflection and evaluation
-│   ├── Reflection_on_the_Secure_Software_Development_Module.docx
+│   ├── Reflection_on_the_Secure_Software_Development_Module_v1.1.docx
 │   ├── Unit11_Implementation_Evaluation.md   # Implementation vs. design analysis
 │   └── unit-12_summary.md
 ├── NAVIGATION.md                    # 📋 Complete navigation guide
@@ -201,7 +201,7 @@ SSD_E-Portfolio/
 ### **Final Project Files**
 - [`Unit_11/ecommerce_cli_SSD_Project_updated/`](Unit_11/ecommerce_cli_SSD_Project_updated/) – **REVISED VERSION** (This is the artefact submitted for Assessment 3, reflecting my improved understanding and secure development skills.)
 - [`Unit_11/ecommerce_cli_SSD_Project/`](Unit_11/ecommerce_cli_SSD_Project/) – **ORIGINAL VERSION** (Included for context only, to demonstrate learning progression.)
-- [`Unit_12/Reflection_on_the_Secure_Software_Development_Module.docx`](Unit_12/Reflection_on_the_Secure_Software_Development_Module.docx) – Module reflection
+- [`Unit_12/Reflection_on_the_Secure_Software_Development_Module_v1.1.docx`](Unit_12/Reflection_on_the_Secure_Software_Development_Module_v1.1.docx) – Module reflection
 
 ### **Supporting Evidence**
 - [`Unit_6/team_meetings/`](Unit_6/team_meetings/) – Collaborative work evidence

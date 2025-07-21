@@ -22,7 +22,7 @@ This document helps you locate all artefacts, summaries, source code, reflection
 | Unit 9   | API refactoring with validation and testing      | `distributed_environment_api_v2.py`, `test_distributed_environment_api_v2.py`, `unit-09_summary.md` | `/Unit_9/`         |
 | Unit 10  | Faceted data and secure design rule reflection   | `faceted_data_reflection.md`, `bogner_design_rules.md`, `unit-10_summary.md` | `/Unit_10/`        |
 | Unit 11  | **FINAL PROJECT**: Secure CLI e-commerce application | **REVISED VERSION**: `ecommerce_cli_SSD_Project_updated/` (artefact submitted for Assessment 3), **ORIGINAL**: `ecommerce_cli_SSD_Project/` (context only, not part of Assessment 3), `unit-11_summary.md` | `/Unit_11/`        |
-| Unit 12  | Final reflection                                 | `Reflection_on_the_Secure_Software_Development_Module.docx`, `unit-12_summary.md`, `Unit11_Implementation_Evaluation.md` | `/Unit_12/`        |
+| Unit 12  | Final reflection                                 | `Reflection_on_the_Secure_Software_Development_Module_v1.1.docx`, `unit-12_summary.md`, `Unit11_Implementation_Evaluation.md` | `/Unit_12/`        |
 
 ---
 
@@ -31,7 +31,7 @@ This document helps you locate all artefacts, summaries, source code, reflection
 - [`README.md`](README.md) – Portfolio introduction and repository usage
 - [`Secure_Software_Development_Group_Project_Design_Document.docx`](Unit_6/Secure_Software_Development_Group_Project_Design_Document.docx) – Group design plan
 - [`unit-11_summary.md`](Unit_11/unit-11_summary.md) – Final project summary
-- [`Reflection_on_the_Secure_Software_Development_Module.docx`](Unit_12/Reflection_on_the_Secure_Software_Development_Module.docx) – Module reflection
+- [`Reflection_on_the_Secure_Software_Development_Module_v1.1.docx`](Unit_12/Reflection_on_the_Secure_Software_Development_Module_v1.1.docx) – Module reflection
 - [`Unit11_Implementation_Evaluation.md`](Unit_12/Unit11_Implementation_Evaluation.md) – Implementation vs. Design evaluation
 
 ---
