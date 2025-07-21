@@ -15,9 +15,9 @@ Use this checklist to verify that all assignment requirements are fulfilled. Eac
 - [ ] **Evidence of forum contributions**  
   _See:_ `Unit_1/unit-01_summary.md` (discussion post)
 - [ ] **Reflections on individual contributions and teamwork**  
-  _See:_ `Unit_6/team_meetings/`, `Unit_12/Reflection_on_the_Secure_Software_Development_Module.docx`
+  _See:_ `Unit_6/team_meetings/`, `Unit_12/Reflection_on_the_Secure_Software_Development_Module_v1.1.docx`
 - [ ] **Reflection on the development process (≤1,000 words)**  
-  _See:_ `Unit_12/Reflection_on_the_Secure_Software_Development_Module.docx`
+  _See:_ `Unit_12/Reflection_on_the_Secure_Software_Development_Module_v1.1.docx`
 - [ ] **References and academic integrity**  
   _See:_ References sections in each unit summary, evaluation, and design document
 - [ ] **Portfolio is logically structured and easy to navigate**  
@@ -25,7 +25,7 @@ Use this checklist to verify that all assignment requirements are fulfilled. Eac
 - [ ] **README.md and navigation guides are up to date**  
   _See:_ `README.md`, `NAVIGATION.md`
 - [ ] **Reflection file submitted as MS Word or PDF with e-portfolio web address**  
-  _See:_ `Unit_12/Reflection_on_the_Secure_Software_Development_Module.docx`
+  _See:_ `Unit_12/Reflection_on_the_Secure_Software_Development_Module_v1.1.docx`
 - [ ] **Submission branch created and no changes after deadline**  
   _See:_ GitHub branch and commit history
 
