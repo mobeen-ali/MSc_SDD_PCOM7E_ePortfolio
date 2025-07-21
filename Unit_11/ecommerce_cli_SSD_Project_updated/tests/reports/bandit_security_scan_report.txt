@@ -1,0 +1,119 @@
+Run started:2025-07-20 18:29:57.440938
+
+Test results:
+>> Issue: [B110:try_except_pass] Try, Except, Pass detected.
+   Severity: Low   Confidence: High
+   CWE: CWE-703 (https://cwe.mitre.org/data/definitions/703.html)
+   More Info: https://bandit.readthedocs.io/en/1.7.10/plugins/b110_try_except_pass.html
+   Location: app/cli.py:54:4
+53	                return f.read().strip()
+54	    except:
+55	        pass
+56	    return None
+
+--------------------------------------------------
+>> Issue: [B110:try_except_pass] Try, Except, Pass detected.
+   Severity: Low   Confidence: High
+   CWE: CWE-703 (https://cwe.mitre.org/data/definitions/703.html)
+   More Info: https://bandit.readthedocs.io/en/1.7.10/plugins/b110_try_except_pass.html
+   Location: app/cli.py:63:4
+62	            f.write(token if token else "")
+63	    except:
+64	        pass
+65	
+
+--------------------------------------------------
+>> Issue: [B105:hardcoded_password_string] Possible hardcoded password: 'password_changed'
+   Severity: Low   Confidence: Medium
+   CWE: CWE-259 (https://cwe.mitre.org/data/definitions/259.html)
+   More Info: https://bandit.readthedocs.io/en/1.7.10/plugins/b105_hardcoded_password_string.html
+   Location: app/core\advanced_logger.py:53:23
+52	    ACCOUNT_LOCKED = "account_locked"
+53	    PASSWORD_CHANGED = "password_changed"
+54	    DATA_ACCESSED = "data_accessed"
+
+--------------------------------------------------
+>> Issue: [B112:try_except_continue] Try, Except, Continue detected.
+   Severity: Low   Confidence: High
+   CWE: CWE-703 (https://cwe.mitre.org/data/definitions/703.html)
+   More Info: https://bandit.readthedocs.io/en/1.7.10/plugins/b112_try_except_continue.html
+   Location: app/core\crypto_manager.py:304:16
+303	                    return fernet.decrypt(encrypted_data).decode()
+304	                except Exception:
+305	                    continue
+306	            
+
+--------------------------------------------------
+>> Issue: [B303:blacklist] Use of insecure MD2, MD4, MD5, or SHA1 hash function.
+   Severity: Medium   Confidence: High
+   CWE: CWE-327 (https://cwe.mitre.org/data/definitions/327.html)
+   More Info: https://bandit.readthedocs.io/en/1.7.10/blacklists/blacklist_calls.html#b303-md5
+   Location: app/core\integrity_manager.py:188:19
+187	        else:
+188	            return hashlib.md5(data.encode()).hexdigest()
+189	    
+
+--------------------------------------------------
+>> Issue: [B105:hardcoded_password_string] Possible hardcoded password: 'data/password_history.json'
+   Severity: Low   Confidence: Medium
+   CWE: CWE-259 (https://cwe.mitre.org/data/definitions/259.html)
+   More Info: https://bandit.readthedocs.io/en/1.7.10/plugins/b105_hardcoded_password_string.html
+   Location: app/core\rate_limiter.py:47:37
+46	        self.lockout_file = "data/account_lockouts.json"
+47	        self.password_history_file = "data/password_history.json"
+48	        
+
+--------------------------------------------------
+>> Issue: [B104:hardcoded_bind_all_interfaces] Possible binding to all interfaces.
+   Severity: Medium   Confidence: Medium
+   CWE: CWE-605 (https://cwe.mitre.org/data/definitions/605.html)
+   More Info: https://bandit.readthedocs.io/en/1.7.10/plugins/b104_hardcoded_bind_all_interfaces.html
+   Location: app/core\ssrf_protection.py:259:38
+258	            # Internal services
+259	            "localhost", "127.0.0.1", "0.0.0.0", "::1",
+260	            # Internal network
+261	            "10.", "172.", "192.168.",
+262	            # Cloud metadata services
+263	            "169.254.169.254",  # AWS metadata
+264	            "metadata.google.internal",  # GCP metadata
+265	            "169.254.169.254/latest/meta-data",  # AWS metadata path
+266	            # File protocols
+267	            "file://", "ftp://", "gopher://", "dict://",
+268	            # Internal services
+269	            "redis://", "mongodb://", "mysql://", "postgresql://",
+270	            # Common internal ports
+271	            ":22", ":21", ":23", ":25", ":53", ":1433", ":3306", ":5432", ":6379"
+272	        ]
+273	        
+274	        for indicator in ssrf_indicators:
+275	            if indicator in url_lower:
+
+--------------------------------------------------
+>> Issue: [B404:blacklist] Consider possible security implications associated with the subprocess module.
+   Severity: Low   Confidence: High
+   CWE: CWE-78 (https://cwe.mitre.org/data/definitions/78.html)
+   More Info: https://bandit.readthedocs.io/en/1.7.10/blacklists/blacklist_imports.html#b404-import-subprocess
+   Location: app/core\vulnerability_scanner.py:31:0
+30	import os
+31	import subprocess
+32	import requests
+
+--------------------------------------------------
+
+Code scanned:
+	Total lines of code: 5066
+	Total lines skipped (#nosec): 0
+	Total potential issues skipped due to specifically being disabled (e.g., #nosec BXXX): 0
+
+Run metrics:
+	Total issues (by severity):
+		Undefined: 0
+		Low: 6
+		Medium: 2
+		High: 0
+	Total issues (by confidence):
+		Undefined: 0
+		Low: 0
+		Medium: 3
+		High: 5
+Files skipped (0):

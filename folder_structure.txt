@@ -1,0 +1,247 @@
+.
+├── Unit_1/
+│   ├── DIagram_Source_FIles/
+│   │   ├── Flowchart_A05-2021_Security_Misconfiguration.drawio
+│   │   └── Sequence_Diagram_A05_Security_Misconfiguration.txt
+│   ├── Flowchart_A05-2021_Security_Misconfiguration.png
+│   ├── Sequence_Diagram_A05-2021_Security_Misconfiguration.png
+│   └── unit-01_summary.md
+├── Unit_2/
+│   └── unit-02_summary.md
+├── Unit_3/
+│   ├── oop_example/
+│   │   ├── oop_auth_example.py
+│   │   ├── test_oop_auth.py
+│   │   ├── test_run_screenshot.png
+│   │   └── TESTING_and_RUNNING_oop_auth_example_script.mp4
+│   ├── secure_language_discussion.md
+│   └── unit-03_summary.md
+├── Unit_4/
+│   ├── recursion_practice/
+│   │   ├── recursion_practice_code.py
+│   │   ├── run-result_test_recursion_practice_code.png
+│   │   ├── test_recursion_practice_code.py
+│   │   └── TESTING_and_RUNNING_recursion_practice_code_script.mp4
+│   ├── regex_practice/
+│   │   ├── regex_practice_code.py
+│   │   ├── run-result_test_regex_practice_code.png
+│   │   ├── test_regex_practice_code.py
+│   │   └── TESTING_and_RUNNING_regex_practice_code_script.mp4
+│   ├── regex_security_summary.md
+│   └── unit-04_summary.md
+├── Unit_5/
+│   ├── modulo_3_relation.png
+│   ├── modulo_4_relation.png
+│   ├── unit05_activity_equivalence_partitioning_demo.ipynb
+│   └── unit-05_summary.md
+├── Unit_6/
+│   ├── flake8_demonstration_evidence/
+│   │   └── fixing_oop_auth_example_script_with_flake8.mp4
+│   ├── flake8_screenshots/
+│   │   ├── flake8_oop_auth_example_analysis.png
+│   │   ├── flake8_recursion_practice_code_analysis.png
+│   │   └── flake8_regex_practice_code_analysis.png
+│   ├── team_meetings/
+│   │   ├── 04June2025_meeting-minutes.txt
+│   │   ├── 05June2025_meeting-minutes.txt
+│   │   ├── 08June2025_meeting-minutes.txt
+│   │   └── 30May2025_meeting-minutes.txt
+│   ├── Peer Evaluation - Design Document.docx
+│   ├── Secure_Software_Development_Group_Project_Design_Document.docx
+│   └── unit-06_summary.md
+├── Unit_7/
+│   ├── Activity_API_for_Distributed_Environment/
+│   │   ├── screenshots/
+│   │   │   ├── api_get_user_Adam.png
+│   │   │   └── api_get_user_Ann.png
+│   │   ├── api_questions_answers.md
+│   │   └── RUNNING_EVIDENCE_for_API-for-a-Distributed-Environment.mp4
+│   ├── Activity_Exploring_a_Simple_Python_Shell/
+│   │   ├── input_flood_simulation.py
+│   │   ├── secure_shell.log
+│   │   ├── unit7_activity_secure_shell.py
+│   │   ├── unit7_activity_simple_python_shell.md
+│   │   └── UNIT-7_Simple-Shell_ACTIVITY_DEMONSTRATION_EVIDENCE.mp4
+│   ├── ontology_and_architecture.md
+│   ├── secure_os_access.py
+│   ├── test_secure_os_access.py
+│   └── unit-07_summary.md
+├── Unit_8/
+│   ├── encryption_practice/
+│   │   ├── encrypted_output.txt
+│   │   ├── encryption_explanation.md
+│   │   ├── encryption_key.key
+│   │   ├── file_encryptor.py
+│   │   └── input.txt
+│   └── unit-08_summary.md
+├── Unit_9/
+│   ├── RUNNING_EVIDENCE_for_Distributed_Environment_API_Updated_Code.mp4
+│   └── unit-09_summary.md
+├── Unit_10/
+│   ├── bogner_design_rules.md
+│   ├── faceted_data_reflection.md
+│   └── unit-10_summary.md
+├── Unit_11/
+│   ├── ecommerce_cli_SSD_Project/
+│   │   ├── app/
+│   │   │   ├── core/
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── api_manager.py
+│   │   │   │   ├── auth.py
+│   │   │   │   ├── logger.py
+│   │   │   │   ├── security.py
+│   │   │   │   └── storage.py
+│   │   │   ├── models/
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── product.py
+│   │   │   │   └── user.py
+│   │   │   ├── __init__.py
+│   │   │   └── cli.py
+│   │   ├── logs/
+│   │   │   └── activity.log
+│   │   ├── reports/
+│   │   │   ├── add_product_output.txt
+│   │   │   ├── bandit_output.txt
+│   │   │   ├── bandit_report.txt
+│   │   │   ├── coverage_report.txt
+│   │   │   ├── flake8_report.txt
+│   │   │   ├── login_output.txt
+│   │   │   ├── pytest_output.txt
+│   │   │   └── register_output.txt
+│   │   ├── screenshots/
+│   │   │   ├── test_auth_result.png
+│   │   │   ├── test_product_result.png
+│   │   │   └── test_user_result.png
+│   │   ├── tests/
+│   │   │   ├── __init__.py
+│   │   │   ├── test_auth.py
+│   │   │   ├── test_product.py
+│   │   │   └── test_user.py
+│   │   ├── tools/
+│   │   │   ├── __init__.py
+│   │   │   └── hacker.py
+│   │   ├── products.json
+│   │   ├── README.md
+│   │   ├── requirements.txt
+│   │   ├── run.py
+│   │   ├── secret.key
+│   │   ├── setup_and_run_ssd_project.bat
+│   │   └── users.json
+│   ├── ecommerce_cli_SSD_Project_updated/
+│   │   ├── app/
+│   │   │   ├── core/
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── advanced_logger.py
+│   │   │   │   ├── api_manager.py
+│   │   │   │   ├── auth.py
+│   │   │   │   ├── crypto_manager.py
+│   │   │   │   ├── integrity_manager.py
+│   │   │   │   ├── logger.py
+│   │   │   │   ├── rate_limiter.py
+│   │   │   │   ├── security.py
+│   │   │   │   ├── session.py
+│   │   │   │   ├── ssrf_protection.py
+│   │   │   │   ├── storage.py
+│   │   │   │   ├── threat_model.py
+│   │   │   │   └── vulnerability_scanner.py
+│   │   │   ├── models/
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── cart.py
+│   │   │   │   ├── order.py
+│   │   │   │   ├── product.py
+│   │   │   │   └── user.py
+│   │   │   ├── __init__.py
+│   │   │   └── cli.py
+│   │   ├── carts/
+│   │   │   ├── customer0203_cart.json
+│   │   │   ├── customer298_cart.json
+│   │   │   ├── customer403_cart.json
+│   │   │   ├── customer703_cart.json
+│   │   │   ├── customer774_cart.json
+│   │   │   ├── customer6533_cart.json
+│   │   │   └── testuser_cart.json
+│   │   ├── config/
+│   │   │   └── README.md
+│   │   ├── data/
+│   │   │   ├── account_lockouts.json
+│   │   │   ├── component_inventory.json
+│   │   │   ├── crypto_keys.json
+│   │   │   ├── current_session.txt
+│   │   │   ├── digital_signatures.json
+│   │   │   ├── failed_attempts.json
+│   │   │   ├── file_monitoring.json
+│   │   │   ├── integrity_checksums.json
+│   │   │   ├── orders.json
+│   │   │   ├── password_history.json
+│   │   │   ├── products.json
+│   │   │   ├── rate_limits.json
+│   │   │   ├── README.md
+│   │   │   ├── security_config.json
+│   │   │   ├── sessions.json
+│   │   │   ├── threat_model.json
+│   │   │   ├── users.json
+│   │   │   └── vulnerability_report.json
+│   │   ├── demo_scripts/
+│   │   │   ├── demo_otp.py
+│   │   │   ├── README.md
+│   │   │   └── video_demo.py
+│   │   ├── docs/
+│   │   │   ├── Peer Evaluation - Design Document.docx
+│   │   │   └── Secure_Software_Development_Group_Project_Design_Document.docx
+│   │   ├── logs/
+│   │   │   ├── activity.log
+│   │   │   ├── security_events.log
+│   │   │   └── security_metrics.json
+│   │   ├── tests/
+│   │   │   ├── reports/
+│   │   │   │   ├── screenshots/
+│   │   │   │   │   ├── test_auth_result.png
+│   │   │   │   │   ├── test_product_result.png
+│   │   │   │   │   ├── test_security_features_result.png
+│   │   │   │   │   └── test_user_result.png
+│   │   │   │   ├── add_product_output.txt
+│   │   │   │   ├── all_tests_results.txt
+│   │   │   │   ├── bandit_security_scan_report.txt
+│   │   │   │   ├── coverage_report.txt
+│   │   │   │   ├── flake8_complete_report.txt
+│   │   │   │   ├── login_output.txt
+│   │   │   │   ├── pytest_output.txt
+│   │   │   │   ├── register_output.txt
+│   │   │   │   ├── test_summary_short.txt
+│   │   │   │   └── working_tests_results.txt
+│   │   │   ├── __init__.py
+│   │   │   ├── test_auth.py
+│   │   │   ├── test_comprehensive_security.py
+│   │   │   ├── test_product.py
+│   │   │   ├── test_security_features.py
+│   │   │   └── test_user.py
+│   │   ├── tools/
+│   │   │   ├── __init__.py
+│   │   │   └── hacker.py
+│   │   ├── DEMO_COMMANDS.md
+│   │   ├── DEMONSTRATION_RECORDING.mp4
+│   │   ├── FINAL_PROJECT_EVALUATION.md
+│   │   ├── FINAL_SUBMISSION_FILES.md
+│   │   ├── FLAKE8_FIXES_GUIDE.md
+│   │   ├── LICENSE
+│   │   ├── master.key
+│   │   ├── private_key.pem
+│   │   ├── PROJECT_STRUCTURE.md
+│   │   ├── public_key.pem
+│   │   ├── README.md
+│   │   ├── requirements.txt
+│   │   ├── run.py
+│   │   ├── secret.key
+│   │   ├── setup.py
+│   │   ├── setup_and_run_ssd_project.bat
+│   │   └── TESTING_EVIDENCE.md
+│   ├── PROJECT_EVOLUTION_SUMMARY.md
+│   └── unit-11_summary.md
+├── Unit_12/
+│   ├── Reflection_on_the_Secure_Software_Development_Module_v1.1.docx
+│   ├── Unit11_Implementation_Evaluation.md
+│   └── unit-12_summary.md
+├── folder_structure.txt
+├── generate_structure.py
+├── NAVIGATION.md
+└── README.md

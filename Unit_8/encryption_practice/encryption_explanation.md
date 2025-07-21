@@ -1,44 +1,49 @@
-# 🔐 Unit 8 – Cryptography Programming Exercise
+# Unit 8 – Cryptography Programming Exercise
 
-## 🔍 Algorithm Selection
+## Algorithm Selection
 
-I chose **Fernet symmetric encryption** from the `cryptography` Python package. Fernet is a high-level and easy-to-use algorithm that provides:
-- **Confidentiality**: It uses AES in CBC mode with a SHA256 HMAC for integrity.
-- **Simplicity**: Built-in key management, encoding, and decoding.
-- **Security**: Random key generation and strong cryptographic primitives.
+The encryption algorithm selected for this task is **Fernet symmetric encryption**, implemented using the `cryptography` package in Python. Fernet is a high-level, authenticated cryptographic system that provides:
 
-This makes it an ideal choice for file-based encryption in CLI or desktop applications.
+- **Confidentiality**: Employs Advanced Encryption Standard (AES) in Cipher Block Chaining (CBC) mode.
+- **Integrity**: Utilises Hash-based Message Authentication Code (HMAC) with SHA-256 to prevent tampering.
+- **Simplicity**: Abstracts key management, encoding, and decoding within a secure application programming interface (API).
+- **Security**: Enforces cryptographic best practices such as random key generation, time-stamped tokens, and automatic key rotation.
 
----
-
-## 📜 GDPR Compliance Evaluation
-
-Fernet encryption **supports GDPR compliance** in the following ways:
-
-### ✅ Data Protection by Design
-- Encryption is implemented as a default behavior.
-- Data is protected both at rest and in transit.
-
-### ✅ Reversibility with Access Control
-- Only individuals with access to the key file (`encryption_key.key`) can decrypt the data, fulfilling GDPR’s accountability principle.
-
-### ✅ Breach Minimization
-- If data is exposed without the key, it remains unreadable, reducing the impact of potential breaches.
-
-### ⚠️ Considerations
-- Key management must be secure and compliant (e.g., keys not stored alongside data).
-- Should be paired with authentication and audit mechanisms in production environments.
+These characteristics make Fernet highly suitable for command-line interface (CLI) and desktop-based file encryption tasks requiring secure, reversible data protection with minimal configuration.
 
 ---
 
-## 📄 Notes
+## General Data Protection Regulation (GDPR) Compliance Evaluation
 
-- Input file: `input.txt`
-- Output file: `encrypted_output.txt`
-- Key file: `encryption_key.key`
+The implementation of Fernet encryption addresses multiple obligations set out in the General Data Protection Regulation (GDPR) (European Union Regulation 2016/679).
+
+### Data Protection by Design and Default (Article 25)
+- Encryption is implemented as a non-optional behaviour in the script, ensuring personal data is protected by default.
+- Both data at rest (`encrypted_output.txt`) and any transmission processes (e.g. moving files) are encrypted.
+
+### Reversibility with Controlled Access
+- Decryption is only possible using a securely stored symmetric key (`encryption_key.key`), thus satisfying the **accountability** and **confidentiality** principles.
+
+### Breach Impact Minimisation (Article 32)
+- Exposure of encrypted data does not compromise the content unless the decryption key is also exposed.
+- This mitigates the risk of data leakage in the event of unauthorised access.
+
+### Implementation Caveats
+- **Key management practices must be secure**: Keys must not be stored in the same location or repository as encrypted data.
+- **Operational security measures** (e.g. logging, authentication, access control) should accompany encryption in production systems.
 
 ---
 
-## 📚 Reference
+## Encryption Script I/O Overview
 
-TutorialsPoint (no date) *Cryptography with Python*. Available at: https://www.tutorialspoint.com/cryptography_with_python/index.htm (Accessed: 17 July 2025)
+- **Input file**: `input.txt` – Original plaintext content.
+- **Output file**: `encrypted_output.txt` – Encrypted binary content.
+- **Key file**: `encryption_key.key` – Contains base64-encoded symmetric key (Fernet-compliant).
+
+---
+
+## Reference
+
+TutorialsPoint (no date) *Cryptography with Python*. Available at: https://www.tutorialspoint.com/cryptography_with_python/index.htm (Accessed: 17 July 2025).
+
+GDPR (no date) *General Data Protection Regulation (EU)*. Available at: https://gdpr-info.eu/ (Accessed: 17 July 2025).

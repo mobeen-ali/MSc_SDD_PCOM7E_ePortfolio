@@ -1,0 +1,5 @@
+Username: admin
+Enter password:
+OTP sent (simulate): 725865
+Enter OTP: 725865
+Welcome, admin!

@@ -1,0 +1,30 @@
+{
+  "user_id": "customer6533",
+  "items": {
+    "c05e1e1f-d629-45c1-98a7-ae3edf5970d4": {
+      "product_id": "c05e1e1f-d629-45c1-98a7-ae3edf5970d4",
+      "quantity": 1,
+      "added_at": "2025-07-20T21:27:45.756700",
+      "last_updated": "2025-07-20T21:27:45.756700"
+    },
+    "0c50009c-8028-4704-a2f3-0bf09cb43a85": {
+      "product_id": "0c50009c-8028-4704-a2f3-0bf09cb43a85",
+      "quantity": 2,
+      "added_at": "2025-07-20T21:27:51.795382",
+      "last_updated": "2025-07-20T21:27:51.795382"
+    }
+  },
+  "coupons": [],
+  "shipping_address": {
+    "street": "123 Oxford Street",
+    "city": "London",
+    "state": "England",
+    "zip_code": "W1D 1BS",
+    "country": "UK"
+  },
+  "payment_method": null,
+  "selected_shipping": "standard",
+  "created_at": "2025-07-20T21:27:45.756700",
+  "last_updated": "2025-07-20T21:28:53.982766",
+  "expires_at": "2025-08-19T21:27:45.756700"
+}
