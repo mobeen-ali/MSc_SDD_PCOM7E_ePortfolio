@@ -51,7 +51,7 @@ SSD_E-Portfolio/
 │   │   ├── oop_auth_example.py
 │   │   ├── test_oop_auth.py
 │   │   ├── test_run_screenshot.png
-│   │   └── TESTING_and_RUNNING_oop_auth_example_script.mp4
+│   │   └── TESTING_and_RUNNING_oop_auth_example_script.mp4 (OneDrive: https://1drv.ms/v/c/2465e7dfd9d61c67/EYmEQZbEAWVIuuzsy7-Y6jcBdA4KK6IMny7kKgLwA7lyPg?e=kDZ5sY)
 │   ├── secure_language_discussion.md
 │   └── unit-03_summary.md
 ├── Unit_4/                          # Regex security and recursion
@@ -59,12 +59,12 @@ SSD_E-Portfolio/
 │   │   ├── recursion_practice_code.py
 │   │   ├── test_recursion_practice_code.py
 │   │   ├── run-result_test_recursion_practice_code.png
-│   │   └── TESTING_and_RUNNING_recursion_practice_code_script.mp4
+│   │   └── TESTING_and_RUNNING_recursion_practice_code_script.mp4 (OneDrive: https://1drv.ms/v/c/2465e7dfd9d61c67/EeefgTUSQCtPujMn_48Gn00BsbiqciNibBnYdrRmy8zJZA?e=zbiECX)
 │   ├── regex_practice/              # Regex security practices
 │   │   ├── regex_practice_code.py
 │   │   ├── test_regex_practice_code.py
 │   │   ├── run-result_test_regex_practice_code.png
-│   │   └── TESTING_and_RUNNING_regex_practice_code_script.mp4
+│   │   └── TESTING_and_RUNNING_regex_practice_code_script.mp4 (OneDrive: https://1drv.ms/v/c/2465e7dfd9d61c67/ERCHVP4yVBhNvV_Eh9SdNH0BAMxr4XvZ2JLxPbmvpaK46w?e=5AsA7e)
 │   ├── regex_security_summary.md
 │   └── unit-04_summary.md
 ├── Unit_5/                          # Equivalence partitioning
@@ -91,14 +91,14 @@ SSD_E-Portfolio/
 │   ├── Activity_API_for_Distributed_Environment/
 │   │   ├── distributed_environment_api.py
 │   │   ├── api_questions_answers.md
-│   │   ├── RUNNING_EVIDENCE_for_API-for-a-Distributed-Environment.mp4
+│   │   ├── RUNNING_EVIDENCE_for_API-for-a-Distributed-Environment.mp4 (OneDrive: https://1drv.ms/v/c/2465e7dfd9d61c67/EbNqJPdEzpRJkwvWHkHH8V8BqS5YDeddW1W7cXXotxGpPA?e=5Hqq7Z)
 │   │   └── screenshots/
 │   ├── Activity_Exploring_a_Simple_Python_Shell/
 │   │   ├── unit7_activity_secure_shell.py
 │   │   ├── input_flood_simulation.py
 │   │   ├── unit7_activity_simple_python_shell.md
 │   │   ├── secure_shell.log
-│   │   └── UNIT-7_Simple-Shell_ACTIVITY_DEMONSTRATION_EVIDENCE.mp4
+│   │   └── UNIT-7_Simple-Shell_ACTIVITY_DEMONSTRATION_EVIDENCE.mp4 (OneDrive: https://1drv.ms/v/c/2465e7dfd9d61c67/EVsVnbuHoqxInKBDuadrNTcBsRHuPj1YOPm8sPsyv2OlKg?e=0OS7rF)
 │   ├── ontology_and_architecture.md
 │   ├── secure_os_access.py
 │   ├── test_secure_os_access.py
@@ -113,7 +113,7 @@ SSD_E-Portfolio/
 ├── Unit_9/                          # API refactoring with validation
 │   ├── distributed_environment_api_v2.py
 │   ├── test_distributed_environment_api_v2.py
-│   ├── RUNNING_EVIDENCE_for_Distributed_Environment_API_Updated_Code.mp4
+│   ├── RUNNING_EVIDENCE_for_Distributed_Environment_API_Updated_Code.mp4 (OneDrive: https://1drv.ms/v/c/2465e7dfd9d61c67/ESzIOo4rschJjZshKu0rDBoBk7klLszfujh2d5GvRYrEfw?e=YnwcnC)
 │   └── unit-09_summary.md
 ├── Unit_10/                         # Faceted data and secure design rules
 │   ├── bogner_design_rules.md
@@ -128,7 +128,7 @@ SSD_E-Portfolio/
 │   │   ├── TESTING_EVIDENCE.md             # Complete testing documentation
 │   │   ├── DEMO_COMMANDS.md                # Demonstration commands
 │   │   ├── PROJECT_STRUCTURE.md            # Detailed architecture
-│   │   ├── DEMONSTRATION_RECORDING.mp4     # Video demonstration
+│   │   ├── DEMONSTRATION_RECORDING.mp4     # Video demonstration (OneDrive: https://1drv.ms/v/c/2465e7dfd9d61c67/EY1l3mbV_W1DkGdaE1_L2twBwCS0unP5uN8FonR1zLMRWQ?e=b3ereA)
 │   │   └── README.md                       # Setup and usage instructions
 │   ├── PROJECT_EVOLUTION_SUMMARY.md         # Growth demonstration
 │   └── unit-11_summary.md
